@@ -1,0 +1,1482 @@
+[
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDVT2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "3.2.F.66",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDVT2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "3.2.F.66",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1392 MiB/s",
+        "Maximum read speed": "1363 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "77°C (170°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTS2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "2.0.0.11",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTS2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2.0.0.11",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "268 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "3 minutes",
+        "Critical maximum temperature": "125°C (257°F)",
+        "Recommended maximum temperature": "110°C (230°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTS2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "2.0.0.1G",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTS2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2.0.0.1G",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1753 MiB/s",
+        "Maximum read speed": "1459 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "3 minutes",
+        "Critical maximum temperature": "125°C (257°F)",
+        "Recommended maximum temperature": "110°C (230°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTS2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "2.R.0.O",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTS2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2.R.0.O",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "253 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "3 minutes",
+        "Critical maximum temperature": "125°C (257°F)",
+        "Recommended maximum temperature": "110°C (230°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDPL2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "SVN163",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDPL2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "SVN163",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1169 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDPE2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "42A0S63A",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDPE2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "42A0S63A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1320 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDPE2TB-D8",
+    "capacity": "2 TB",
+    "firmware": "42A2S8MA",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDPE2TB-D8",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "42A2S8MA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1180 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTR1TB-3D",
+    "capacity": "1 TB",
+    "firmware": "Q1116A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTR1TB-3D",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "Q1116A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "481 MiB/s",
+        "Maximum read speed": "472 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDVL1TB-D8",
+    "capacity": "1 TB",
+    "firmware": "1.H.F.Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDVL1TB-D8",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.H.F.Q",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "533 MiB/s",
+        "Maximum read speed": "400 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "77°C (170°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDHL1TB-D8",
+    "capacity": "1 TB",
+    "firmware": "T0709E0L",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDHL1TB-D8",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "T0709E0L",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1331 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDS21TB",
+    "capacity": "1 TB",
+    "firmware": "T0818A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDS21TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0818A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "442 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "18°C (64°F)",
+        "Average maximum temperature": "18°C (64°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDRE1TB",
+    "capacity": "1 TB",
+    "firmware": "P1225C",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDRE1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "P1225C",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "435 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "1 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDEL1TB",
+    "capacity": "1 TB",
+    "firmware": "V0303B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDEL1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0303B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "464 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDEL960GB",
+    "capacity": "960.1 GB",
+    "firmware": "T0818A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDEL960GB",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0818A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "411 MiB/s",
+        "Maximum read speed": "388 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "26°C (78°F)",
+        "Average maximum temperature": "26°C (78°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTS512GB-D8",
+    "capacity": "512.1 GB",
+    "firmware": "2.0.0.S",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTS512GB-D8",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2.0.0.S",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "257 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "3 minutes",
+        "Critical maximum temperature": "125°C (257°F)",
+        "Recommended maximum temperature": "110°C (230°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDTR480GB",
+    "capacity": "480.1 GB",
+    "firmware": "O1126A",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDTR480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "O1126A",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "461 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR480GB-7",
+    "capacity": "480.1 GB",
+    "firmware": "507ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR480GB-7",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "507ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "194 MiB/s",
+        "Maximum read speed": "177 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR480GB",
+    "capacity": "480.1 GB",
+    "firmware": "507ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "507ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "161 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDPL250GB-D8",
+    "capacity": "250 GB",
+    "firmware": "SVN139B",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDPL250GB-D8",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "SVN139B",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1520 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDS2250GB-LT",
+    "capacity": "250 GB",
+    "firmware": "T0818A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDS2250GB-LT",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0818A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "422 MiB/s",
+        "Maximum read speed": "330 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "26°C (78°F)",
+        "Average maximum temperature": "24°C (75°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDEC240GB",
+    "capacity": "240 GB",
+    "firmware": "603ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDEC240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "603ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "226 MiB/s",
+        "Maximum read speed": "202 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR240GB-DX",
+    "capacity": "240 GB",
+    "firmware": "609ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR240GB-DX",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "609ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "376 MiB/s",
+        "Maximum read speed": "350 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR240GB",
+    "capacity": "240 GB",
+    "firmware": "502ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "502ABBF0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "161 MiB/s",
+        "Maximum read speed": "140 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "102°C (215°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR240GB",
+    "capacity": "240 GB",
+    "firmware": "560ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "560ABBF0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "216 MiB/s",
+        "Maximum read speed": "180 MiB/s",
+        "Minimum average access time": "0.41 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "91°C (195°F)",
+        "Average maximum temperature": "91°C (195°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDS2120GB",
+    "capacity": "120 GB",
+    "firmware": "R0522A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDS2120GB",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "R0522A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "232 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR120GB-DX",
+    "capacity": "120 GB",
+    "firmware": "320ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR120GB-DX",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "320ABBF0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "255 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR120GB-DX",
+    "capacity": "120 GB",
+    "firmware": "332ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR120GB-DX",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "332ABBF0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "243 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR120GB-DX",
+    "capacity": "120 GB",
+    "firmware": "504ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR120GB-DX",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "504ABBF0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "276 MiB/s",
+        "Maximum read speed": "261 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR120GB",
+    "capacity": "120 GB",
+    "firmware": "507ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR120GB",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "507ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "164 MiB/s",
+        "Maximum read speed": "148 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDAT120GB-DX",
+    "capacity": "120 GB",
+    "firmware": "504ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDAT120GB-DX",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "504ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "239 MiB/s",
+        "Maximum read speed": "206 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "82°C (179°F)",
+        "Average maximum temperature": "82°C (179°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDSR120GB",
+    "capacity": "120 GB",
+    "firmware": "Q1115A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDSR120GB",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "Q1115A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "470 MiB/s",
+        "Maximum read speed": "421 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mushkin",
+    "model": "MKNSSDCR60GB-7",
+    "capacity": "60 GB",
+    "firmware": "600ABBF0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mushkin",
+        "Model": "MKNSSDCR60GB-7",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "600ABBF0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "186 MiB/s",
+        "Maximum read speed": "165 MiB/s",
+        "Minimum average access time": "0.29 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "not supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

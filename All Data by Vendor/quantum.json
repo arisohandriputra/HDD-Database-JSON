@@ -1,0 +1,2604 @@
+[
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS60.0",
+    "capacity": "60 GB",
+    "firmware": "A1Y.1500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS60.0",
+        "Capacity": "60 GB (55.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1500",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "85 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "13.18 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "35 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS40.0",
+    "capacity": "41.1 GB",
+    "firmware": "A1Y.1500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS40.0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1500",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS40.0",
+    "capacity": "41.1 GB",
+    "firmware": "A1Y.1300",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS40.0",
+        "Capacity": "41.1 GB (38.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1300",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "82 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS40.0",
+    "capacity": "41.1 GB",
+    "firmware": "A2R.0600",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS40.0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A2R.0600",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "29 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS40",
+    "capacity": "40 GB",
+    "firmware": "A1Y.2500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS40",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.2500",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "15.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct20 40",
+    "capacity": "40 GB",
+    "firmware": "APL.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct20 40",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "APL.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "25 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "18.60 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "47 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "46 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct15 30",
+    "capacity": "30 GB",
+    "firmware": "A01.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct15 30",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A01.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "55 MiB/s",
+        "Maximum read speed": "17 MiB/s",
+        "Minimum average access time": "19.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct20 30",
+    "capacity": "30 GB",
+    "firmware": "APL.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct20 30",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "APL.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "26 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "18.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "35 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct10 30",
+    "capacity": "30 GB",
+    "firmware": "A03.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct10 30",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A03.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "55 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "14.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP LM30",
+    "capacity": "30 GB",
+    "firmware": "A35.0700",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP LM30",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A35.0700",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "59 MiB/s",
+        "Maximum read speed": "24 MiB/s",
+        "Minimum average access time": "13.0 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS30.0",
+    "capacity": "30 GB",
+    "firmware": "A1Y.1500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS30.0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1500",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "18 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "18 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS30.0",
+    "capacity": "30 GB",
+    "firmware": "A2R.0600",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS30.0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A2R.0600",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "10 MiB/s",
+        "Maximum read speed": "7 MiB/s",
+        "Minimum average access time": "17.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "18 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "18 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct08 26",
+    "capacity": "26 GB",
+    "firmware": "A05.0X00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct08 26",
+        "Capacity": "26 GB (24.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A05.0X00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "14.30 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "26 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS20.5",
+    "capacity": "20.5 GB",
+    "firmware": "A1Y.1500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS20.5",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1500",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "94 MiB/s",
+        "Maximum read speed": "41 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS20.5",
+    "capacity": "20.5 GB",
+    "firmware": "A1Y.1300",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS20.5",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1300",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "13.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS20.5",
+    "capacity": "20.5 GB",
+    "firmware": "A1Y.2500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS20.5",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.2500",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum read speed": "3 MiB/s",
+        "Minimum average access time": "19.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP LM20.5",
+    "capacity": "20.5 GB",
+    "firmware": "A35.0700",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP LM20.5",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A35.0700",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "12.60 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "17 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct15 20",
+    "capacity": "20.4 GB",
+    "firmware": "A01.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct15 20",
+        "Capacity": "20.4 GB (19 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A01.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "57 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "17.50 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "21 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct20 20",
+    "capacity": "20.4 GB",
+    "firmware": "APL.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct20 20",
+        "Capacity": "20.4 GB (19 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "APL.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "26 MiB/s",
+        "Maximum read speed": "21 MiB/s",
+        "Minimum average access time": "18.10 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "25 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct10 20",
+    "capacity": "20.4 GB",
+    "firmware": "A03.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct10 20",
+        "Capacity": "20.4 GB (19 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A03.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum read speed": "3 MiB/s",
+        "Minimum average access time": "14.90 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS20",
+    "capacity": "20.4 GB",
+    "firmware": "A1Y.1500",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS20",
+        "Capacity": "20.4 GB (19 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1500",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "17 MiB/s",
+        "Maximum read speed": "13 MiB/s",
+        "Minimum average access time": "17.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM BIGFOOT TS19.2A",
+    "capacity": "19.2 GB",
+    "firmware": "A21.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM BIGFOOT TS19.2A",
+        "Capacity": "19.2 GB (17.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A21.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "23 MiB/s",
+        "Maximum read speed": "12 MiB/s",
+        "Minimum average access time": "18.90 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct15 15",
+    "capacity": "15 GB",
+    "firmware": "A01.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct15 15",
+        "Capacity": "15 GB (13.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A01.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "58 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "18.20 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct10 15",
+    "capacity": "15 GB",
+    "firmware": "A03.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct10 15",
+        "Capacity": "15 GB (13.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A03.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "14.10 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "15 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP LM15",
+    "capacity": "15 GB",
+    "firmware": "A35.0700",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP LM15",
+        "Capacity": "15 GB (13.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A35.0700",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "11.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CX13.0A",
+    "capacity": "13 GB",
+    "firmware": "A3F.0B00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CX13.0A",
+        "Capacity": "13 GB (12.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A3F.0B00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "17 MiB/s",
+        "Minimum average access time": "14.60 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "21 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP AS10.2",
+    "capacity": "10.2 GB",
+    "firmware": "A1Y.1300",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP AS10.2",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "A1Y.1300",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "83 MiB/s",
+        "Maximum read speed": "34 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "7 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct20 10",
+    "capacity": "10.2 GB",
+    "firmware": "APL.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct20 10",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "APL.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "25 MiB/s",
+        "Maximum read speed": "22 MiB/s",
+        "Minimum average access time": "18.30 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct15 10",
+    "capacity": "10.2 GB",
+    "firmware": "A01.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct15 10",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A01.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "55 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "16.30 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "11 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct10 10",
+    "capacity": "10.2 GB",
+    "firmware": "A03.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct10 10",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A03.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "14.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "10 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX10.2A",
+    "capacity": "10.2 GB",
+    "firmware": "A0A.0D00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX10.2A",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0D00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "32 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "29.90 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CX10.2A",
+    "capacity": "10.2 GB",
+    "firmware": "A3F.0B00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CX10.2A",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A3F.0B00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "15 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "18.95 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM BIGFOOT TS10.0A",
+    "capacity": "10 GB",
+    "firmware": "A21.0G00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM BIGFOOT TS10.0A",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A21.0G00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "27 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "17.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct08 08",
+    "capacity": "8.4 GB",
+    "firmware": "A05.0X00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct08 08",
+        "Capacity": "8.4 GB (7.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A05.0X00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "59 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "14.10 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "9 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "10 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CR8.4A",
+    "capacity": "8.4 GB",
+    "firmware": "A5U.0200",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CR8.4A",
+        "Capacity": "8.4 GB (7.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A5U.0200",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "15.70 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "14 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct15 07",
+    "capacity": "7.5 GB",
+    "firmware": "A01.0F00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct15 07",
+        "Capacity": "7.5 GB (6.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A01.0F00",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "18.30 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "8 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLP KA6.4",
+    "capacity": "6.4 GB",
+    "firmware": "A42.0400",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLP KA6.4",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A42.0400",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "24 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "11.20 msec",
+        "Cache buffer": "371 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL ST6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A0F.0800",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL ST6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0F.0800",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "9 MiB/s",
+        "Minimum average access time": "16.20 msec",
+        "Cache buffer": "81.4 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A0A.0D00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0D00",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "12 MiB/s",
+        "Minimum average access time": "14.30 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A0A.0300",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0300",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "14.80 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A0A.0400",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0400",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "24 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "14.60 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CX6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A3F.0B00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CX6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A3F.0B00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "56 MiB/s",
+        "Maximum read speed": "17 MiB/s",
+        "Minimum average access time": "14.40 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CR6.4A",
+    "capacity": "6.4 GB",
+    "firmware": "A5U.1200",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CR6.4A",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A5U.1200",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "56 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "14.80 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX5.1A",
+    "capacity": "5.1 GB",
+    "firmware": "A0A.0400",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX5.1A",
+        "Capacity": "5.1 GB (4.7 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0400",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "15.0 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALLlct10 05",
+    "capacity": "5.1 GB",
+    "firmware": "A03.0900",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALLlct10 05",
+        "Capacity": "5.1 GB (4.7 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A03.0900",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "14.50 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "5 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL SE4.3A",
+    "capacity": "4.3 GB",
+    "firmware": "API.0A00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL SE4.3A",
+        "Capacity": "4.3 GB (4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "API.0A00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "9 MiB/s",
+        "Minimum average access time": "15.87 msec",
+        "Cache buffer": "80 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL SE4.3A",
+    "capacity": "4.3 GB",
+    "firmware": "API.0C00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL SE4.3A",
+        "Capacity": "4.3 GB (4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "API.0C00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "10 MiB/s",
+        "Minimum average access time": "15.30 msec",
+        "Cache buffer": "80 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL CR4.3A",
+    "capacity": "4.3 GB",
+    "firmware": "A5U.1200",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL CR4.3A",
+        "Capacity": "4.3 GB (4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "A5U.1200",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "58 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "14.50 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "7 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL ST3.2A",
+    "capacity": "3.2 GB",
+    "firmware": "A0F.0800",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL ST3.2A",
+        "Capacity": "3.2 GB (3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0F.0800",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "8 MiB/s",
+        "Minimum average access time": "16.20 msec",
+        "Cache buffer": "81.4 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL SE3.2A",
+    "capacity": "3.2 GB",
+    "firmware": "API.0C00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL SE3.2A",
+        "Capacity": "3.2 GB (3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "API.0C00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "11 MiB/s",
+        "Maximum read speed": "10 MiB/s",
+        "Minimum average access time": "15.10 msec",
+        "Cache buffer": "80 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL SE3.2A",
+    "capacity": "3.2 GB",
+    "firmware": "API.0D00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL SE3.2A",
+        "Capacity": "3.2 GB (3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "API.0D00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "11 MiB/s",
+        "Maximum read speed": "10 MiB/s",
+        "Minimum average access time": "17.90 msec",
+        "Cache buffer": "80 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL EX3.2A",
+    "capacity": "3.2 GB",
+    "firmware": "A0A.0D00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL EX3.2A",
+        "Capacity": "3.2 GB (3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0A.0D00",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "14.10 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL ST2.1A",
+    "capacity": "2.1 GB",
+    "firmware": "A0F.0800",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL ST2.1A",
+        "Capacity": "2.1 GB (1.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0F.0800",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "7 MiB/s",
+        "Minimum average access time": "14.70 msec",
+        "Cache buffer": "81.4 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL SE2.1A",
+    "capacity": "2.1 GB",
+    "firmware": "API.0A00",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL SE2.1A",
+        "Capacity": "2.1 GB (1.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "API.0A00",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum read speed": "10 MiB/s",
+        "Minimum average access time": "15.20 msec",
+        "Cache buffer": "80 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM FIREBALL ST1.6A",
+    "capacity": "1.6 GB",
+    "firmware": "A0F.0800",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM FIREBALL ST1.6A",
+        "Capacity": "1.6 GB (1.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "A0F.0800",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "2 MiB/s",
+        "Maximum read speed": "1 MiB/s",
+        "Minimum average access time": "15.10 msec",
+        "Cache buffer": "81.4 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Quantum",
+    "model": "QUANTUM TRB850A",
+    "capacity": "850 MB",
+    "firmware": "A04.04",
+    "sections": {
+      "General information": {
+        "Trademark": "Quantum",
+        "Model": "QUANTUM TRB850A",
+        "Capacity": "850 MB (810.6 MiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "0",
+        "Firmware": "A04.04",
+        "Firmware upgrade": "not supported",
+        "ATA version": "0",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "16,7 MB/s",
+        "Maximum buffered read speed": "2 MiB/s",
+        "Maximum read speed": "1 MiB/s",
+        "Minimum average access time": "21.20 msec",
+        "Cache buffer": "96 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "8",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  }
+]

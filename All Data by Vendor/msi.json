@@ -1,0 +1,2245 @@
+[
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 4TB",
+    "capacity": "4 TB",
+    "firmware": "EIFM31.6",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 4TB",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM31.6",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3582 MiB/s",
+        "Maximum read speed": "2517 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "89°C (192°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M461 4TB",
+    "capacity": "4 TB",
+    "firmware": "ELFMC1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M461 4TB",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ELFMC1.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1268 MiB/s",
+        "Maximum read speed": "1170 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M570 PRO 2TB",
+    "capacity": "2 TB",
+    "firmware": "EQFM22.2",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M570 PRO 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "EQFM22.2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "11 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "15752 MB/s (PCIe 5.0 x4)",
+        "Maximum buffered read speed": "5020 MiB/s",
+        "Maximum read speed": "3094 MiB/s",
+        "Minimum average access time": "0.64 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "21 minutes",
+        "Critical maximum temperature": "89°C (192°F)",
+        "Recommended maximum temperature": "87°C (188°F)",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M560 2TB",
+    "capacity": "2 TB",
+    "firmware": "EVFM00.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M560 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "EVFM00.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "15752 MB/s (PCIe 5.0 x4)",
+        "Maximum read speed": "1416 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M482 2TB",
+    "capacity": "2 TB",
+    "firmware": "ERFM11.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M482 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ERFM11.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "996 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (256 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 2TB",
+    "capacity": "2 TB",
+    "firmware": "EIFM80.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM80.0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "740 MiB/s",
+        "Maximum read speed": "383 MiB/s",
+        "Minimum average access time": "0.33 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 2TB",
+    "capacity": "2 TB",
+    "firmware": "EIFM80.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM80.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2019 MiB/s",
+        "Maximum read speed": "682 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "86°C (186°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M470 2TB",
+    "capacity": "2 TB",
+    "firmware": "EGFM13.2",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M470 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EGFM13.2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2962 MiB/s",
+        "Maximum read speed": "2928 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M461 2TB",
+    "capacity": "2 TB",
+    "firmware": "ELFMC1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M461 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ELFMC1.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "4006 MiB/s",
+        "Maximum read speed": "3925 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 2TB",
+    "capacity": "2 TB",
+    "firmware": "EJFM80.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM80.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "409 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M560 1TB",
+    "capacity": "1 TB",
+    "firmware": "EVFM00.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M560 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "EVFM00.1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "15752 MB/s (PCIe 5.0 x4)",
+        "Maximum read speed": "1024 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M482 1TB",
+    "capacity": "1 TB",
+    "firmware": "ERFM11.2",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M482 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ERFM11.2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "874 MiB/s",
+        "Maximum read speed": "750 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 1TB",
+    "capacity": "1 TB",
+    "firmware": "EIFM80.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM80.1",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3463 MiB/s",
+        "Maximum read speed": "2742 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "86°C (186°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 1TB",
+    "capacity": "1 TB",
+    "firmware": "EIFM31.7",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM31.7",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2212 MiB/s",
+        "Maximum read speed": "2104 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "89°C (192°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M480 PRO 1TB",
+    "capacity": "1 TB",
+    "firmware": "EIFM51.3",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M480 PRO 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFM51.3",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1785 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "89°C (192°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M470 PRO 1TB",
+    "capacity": "1 TB",
+    "firmware": "ERFM30.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M470 PRO 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ERFM30.1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2332 MiB/s",
+        "Maximum read speed": "2216 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "70°C (158°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M461 1TB",
+    "capacity": "1 TB",
+    "firmware": "ELFMC1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M461 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ELFMC1.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "931 MiB/s",
+        "Maximum read speed": "760 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M460 1TB",
+    "capacity": "1 TB",
+    "firmware": "ELFMH0.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M460 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ELFMH0.1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3906 MiB/s",
+        "Maximum read speed": "3343 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB V1",
+    "capacity": "1 TB",
+    "firmware": "EJFME0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB V1",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFME0.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1923 MiB/s",
+        "Maximum read speed": "1884 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB",
+    "capacity": "1 TB",
+    "firmware": "EJFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFMC0.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2969 MiB/s",
+        "Maximum read speed": "2751 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB",
+    "capacity": "1 TB",
+    "firmware": "EJFM32.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM32.1",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3324 MiB/s",
+        "Maximum read speed": "2933 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB",
+    "capacity": "1 TB",
+    "firmware": "EJFM61.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM61.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "960 MiB/s",
+        "Maximum read speed": "902 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB",
+    "capacity": "1 TB",
+    "firmware": "EJFM32.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM32.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "424 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 1TB",
+    "capacity": "1 TB",
+    "firmware": "EJFMC1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFMC1.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2914 MiB/s",
+        "Maximum read speed": "2392 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 1TB",
+    "capacity": "1 TB",
+    "firmware": "EHFM32.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFM32.0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "412 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 1TB",
+    "capacity": "1 TB",
+    "firmware": "EHFM32.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFM32.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2059 MiB/s",
+        "Maximum read speed": "1686 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 1TB",
+    "capacity": "1 TB",
+    "firmware": "EDFM00.7",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EDFM00.7",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "292 MiB/s",
+        "Maximum read speed": "268 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (509 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 1TB",
+    "capacity": "1 TB",
+    "firmware": "EDFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EDFMC0.0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "417 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (636.5 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 1TB",
+    "capacity": "1 TB",
+    "firmware": "EHFME0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFME0.0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "513 MiB/s",
+        "Maximum read speed": "459 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 1TB",
+    "capacity": "1 TB",
+    "firmware": "EHFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 1TB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFMC0.0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "414 MiB/s",
+        "Maximum read speed": "300 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "69°C (156°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 960GB",
+    "capacity": "960.1 GB",
+    "firmware": "SBFM61.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 960GB",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.5",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "485 MiB/s",
+        "Maximum read speed": "465 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 960GB",
+    "capacity": "960.1 GB",
+    "firmware": "SHFM90.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 960GB",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SHFM90.0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "401 MiB/s",
+        "Maximum read speed": "340 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 960GB",
+    "capacity": "960.1 GB",
+    "firmware": "SBFMLA.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 960GB",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMLA.5",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "486 MiB/s",
+        "Maximum read speed": "348 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB V1",
+    "capacity": "500.1 GB",
+    "firmware": "EJFME0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB V1",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFME0.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2000 MiB/s",
+        "Maximum read speed": "1808 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EJFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFMC0.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1880 MiB/s",
+        "Maximum read speed": "1782 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EJFM32.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM32.1",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2962 MiB/s",
+        "Maximum read speed": "1804 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EJFM61.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM61.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2240 MiB/s",
+        "Maximum read speed": "1940 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EJFM60.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFM60.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1766 MiB/s",
+        "Maximum read speed": "1699 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M450 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EJFMC1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M450 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EJFMC1.0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1607 MiB/s",
+        "Maximum read speed": "1543 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EHFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFMC0.0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1481 MiB/s",
+        "Maximum read speed": "1053 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EHFM32.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFM32.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2363 MiB/s",
+        "Maximum read speed": "2085 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EDFMC0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EDFMC0.0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "526 MiB/s",
+        "Maximum read speed": "475 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (252.6 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M371 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "EHFMD0.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M371 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFMD0.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "493 MiB/s",
+        "Maximum read speed": "332 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 480GB",
+    "capacity": "480.1 GB",
+    "firmware": "SBFM61.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.5",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "494 MiB/s",
+        "Maximum read speed": "465 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 480GB",
+    "capacity": "480.1 GB",
+    "firmware": "SBFMLA.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMLA.5",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "466 MiB/s",
+        "Maximum read speed": "409 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 480GB",
+    "capacity": "480.1 GB",
+    "firmware": "SHFME0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SHFME0.0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "447 MiB/s",
+        "Maximum read speed": "409 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M370 256GB",
+    "capacity": "256 GB",
+    "firmware": "EDFM80.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M370 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EDFM80.1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2185 MiB/s",
+        "Maximum read speed": "2149 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (253.9 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 250GB",
+    "capacity": "250 GB",
+    "firmware": "EHFM32.1",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 250GB",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFM32.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2232 MiB/s",
+        "Maximum read speed": "1928 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI M390 250GB",
+    "capacity": "250 GB",
+    "firmware": "EHFM32.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI M390 250GB",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EHFM32.0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "430 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 240GB",
+    "capacity": "240 GB",
+    "firmware": "SBFM61.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.5",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "483 MiB/s",
+        "Maximum read speed": "464 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 240GB",
+    "capacity": "240 GB",
+    "firmware": "SBFMT1.3",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMT1.3",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "268 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 240GB",
+    "capacity": "240 GB",
+    "firmware": "SHFME0.0",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SHFME0.0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "427 MiB/s",
+        "Maximum read speed": "394 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "model": "MSI S270 120GB",
+    "capacity": "120 GB",
+    "firmware": "SBFM61.5",
+    "sections": {
+      "General information": {
+        "Trademark": "MSI",
+        "Model": "MSI S270 120GB",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "464 MiB/s",
+        "Maximum read speed": "380 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

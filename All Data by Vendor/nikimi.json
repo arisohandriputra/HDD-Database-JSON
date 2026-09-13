@@ -1,0 +1,94 @@
+[
+  {
+    "brand": "Nikimi",
+    "model": "Nikimi NIK-XW400A",
+    "capacity": "40.9 GB",
+    "firmware": "TAH71DP0",
+    "sections": {
+      "General information": {
+        "Trademark": "Nikimi",
+        "Model": "Nikimi NIK-XW400A",
+        "Capacity": "40.9 GB (38.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TAH71DP0",
+        "Firmware upgrade": "supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "34 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "25 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Nikimi",
+    "model": "Nikimi NIK-XD200A",
+    "capacity": "20.4 GB",
+    "firmware": "YAH814Y0",
+    "sections": {
+      "General information": {
+        "Trademark": "Nikimi",
+        "Model": "Nikimi NIK-XD200A",
+        "Capacity": "20.4 GB (19 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "YAH814Y0",
+        "Firmware upgrade": "supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "26 MiB/s",
+        "Minimum average access time": "21.93 msec",
+        "Cache buffer": "2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "17 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  }
+]
