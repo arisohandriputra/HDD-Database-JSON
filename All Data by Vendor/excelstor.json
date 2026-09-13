@@ -1,0 +1,1320 @@
+[
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J9250S",
+    "capacity": "250 GB",
+    "firmware": "GM2OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J9250S",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "GM2OA52A",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "234 MiB/s",
+        "Maximum read speed": "100 MiB/s",
+        "Minimum average access time": "18.37 msec",
+        "Cache buffer": "7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "66 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "92 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J9250",
+    "capacity": "250 GB",
+    "firmware": "GM2OA42A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J9250",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "GM2OA42A",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "121 MiB/s",
+        "Maximum read speed": "91 MiB/s",
+        "Minimum average access time": "18.0 msec",
+        "Cache buffer": "7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "66 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "92 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology V8160",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA8BA",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology V8160",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P22OA8BA",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "113 MiB/s",
+        "Maximum read speed": "81 MiB/s",
+        "Minimum average access time": "11.30 msec",
+        "Cache buffer": "7.4 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "68 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160S",
+    "capacity": "164.6 GB",
+    "firmware": "P22OABEA",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160S",
+        "Capacity": "160 GB (149 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P22OABEA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "209 MiB/s",
+        "Maximum read speed": "76 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160S",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA50U",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160S",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P22OA50U",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "201 MiB/s",
+        "Maximum read speed": "81 MiB/s",
+        "Minimum average access time": "13.30 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160S",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA70A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160S",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P22OA70A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "201 MiB/s",
+        "Maximum read speed": "73 MiB/s",
+        "Minimum average access time": "36.50 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA40U",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P22OA40U",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "118 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P22OA60A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "87 MiB/s",
+        "Maximum read speed": "74 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA85A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160",
+        "Capacity": "164.6 GB (153.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P22OA85A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "13.12 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8160",
+    "capacity": "164.6 GB",
+    "firmware": "P22OA8BA",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8160",
+        "Capacity": "160 GB (149 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P22OA8BA",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "122 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "13.10 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "Excelstor Technology J880S",
+    "capacity": "82.3 GB",
+    "firmware": "PF2OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "Excelstor Technology J880S",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "PF2OA60A",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "125 MiB/s",
+        "Maximum read speed": "54 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "7.4 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "Excelstor Technology J680S",
+    "capacity": "82.3 GB",
+    "firmware": "V32OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "Excelstor Technology J680S",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "V32OA63A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "122 MiB/s",
+        "Maximum read speed": "54 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J880S",
+    "capacity": "82.3 GB",
+    "firmware": "PF2OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "Excelstor Technology J880S",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "PF2OA60A",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "125 MiB/s",
+        "Maximum read speed": "54 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "7.4 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J880",
+    "capacity": "82.3 GB",
+    "firmware": "PF2OA21B",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J880",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "PF2OA21B",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "124 MiB/s",
+        "Maximum read speed": "54 MiB/s",
+        "Minimum average access time": "12.90 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "75°C (167°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J880",
+    "capacity": "82.3 GB",
+    "firmware": "PF2OA20Y",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J880",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "PF2OA20Y",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "101 MiB/s",
+        "Maximum read speed": "53 MiB/s",
+        "Minimum average access time": "13.0 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8080S",
+    "capacity": "82.3 GB",
+    "firmware": "P21OABEA",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8080S",
+        "Capacity": "80 GB (74.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P21OABEA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "205 MiB/s",
+        "Maximum read speed": "77 MiB/s",
+        "Minimum average access time": "13.23 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8080S",
+    "capacity": "82.3 GB",
+    "firmware": "P21OAB3A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8080S",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P21OAB3A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "193 MiB/s",
+        "Maximum read speed": "82 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8080",
+    "capacity": "82.3 GB",
+    "firmware": "P21OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8080",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P21OA60A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "121 MiB/s",
+        "Maximum read speed": "77 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8080",
+    "capacity": "82.3 GB",
+    "firmware": "P21OA85A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8080",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P21OA85A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "120 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "13.50 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J8080",
+    "capacity": "82.3 GB",
+    "firmware": "P21OA8BA",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J8080",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "P21OA8BA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "121 MiB/s",
+        "Maximum read speed": "73 MiB/s",
+        "Minimum average access time": "13.25 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "32 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J680",
+    "capacity": "82.3 GB",
+    "firmware": "V32OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J680",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V32OA60A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "56 MiB/s",
+        "Minimum average access time": "13.0 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J360",
+    "capacity": "61.4 GB",
+    "firmware": "V22OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J360",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V22OA63A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "49 MiB/s",
+        "Maximum read speed": "45 MiB/s",
+        "Minimum average access time": "15.80 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J840",
+    "capacity": "41.1 GB",
+    "firmware": "PF1OA21B",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J840",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "PF1OA21B",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "53 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology J240",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OAF0C",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology J240",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OAF0C",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "87 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "14.60 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "71°C (159°F)",
+        "Average maximum temperature": "71°C (159°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology ES3220",
+    "capacity": "20 GB",
+    "firmware": "ES5CA18B",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology ES3220",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "ES5CA18B",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "60 MiB/s",
+        "Maximum read speed": "24 MiB/s",
+        "Minimum average access time": "18.80 msec",
+        "Cache buffer": "512 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "36 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology  CT215",
+    "capacity": "15.1 GB",
+    "firmware": "ES3CA53C",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology CT215",
+        "Capacity": "15.1 GB (14 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "ES3CA53C",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "60 MiB/s",
+        "Maximum read speed": "23 MiB/s",
+        "Minimum average access time": "17.50 msec",
+        "Cache buffer": "512 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "33 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "ExcelStor",
+    "model": "ExcelStor Technology  CT210",
+    "capacity": "10.2 GB",
+    "firmware": "ES4CA53D",
+    "sections": {
+      "General information": {
+        "Trademark": "ExcelStor",
+        "Model": "ExcelStor Technology CT210",
+        "Capacity": "10.2 GB (9.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "ES4CA53D",
+        "Firmware upgrade": "supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "4 MiB/s",
+        "Maximum read speed": "3 MiB/s",
+        "Minimum average access time": "17.60 msec",
+        "Cache buffer": "512 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "31 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  }
+]

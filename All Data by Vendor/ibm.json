@@ -1,0 +1,4808 @@
+[
+  {
+    "brand": "IBM",
+    "model": "IBM-207x HUC109060CSS60",
+    "capacity": "600.1 GB",
+    "firmware": "7.1121",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-207x HUC109060CSS60",
+        "Capacity": "600.1 GB (558.9 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Firmware": "7.1121",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "355 MiB/s",
+        "Maximum read speed": "163 MiB/s",
+        "Minimum average access time": "7.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "not supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "10000 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "7",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "> 255 minutes",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L180AVV207-1",
+    "capacity": "185.2 GB",
+    "firmware": "V26OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L180AVV207-1",
+        "Capacity": "185.2 GB (172.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V26OA63A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "52 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "71 minutes",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "90 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L180AVV207-1",
+    "capacity": "185.2 GB",
+    "firmware": "V26OA66A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L180AVV207-1",
+        "Capacity": "185.2 GB (172.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V26OA66A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "51 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "71 minutes",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "90 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L120AVVA07-0",
+    "capacity": "123.5 GB",
+    "firmware": "VA6OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L120AVVA07-0",
+        "Capacity": "123.5 GB (115 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA6OA52A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "57 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "83°C (181°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "72 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L120AVV207-1",
+    "capacity": "123.5 GB",
+    "firmware": "V24OA66A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L120AVV207-1",
+        "Capacity": "123.5 GB (115 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V24OA66A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "51 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "72°C (161°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L120AVV207-0",
+    "capacity": "123.5 GB",
+    "firmware": "V24OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L120AVV207-0",
+        "Capacity": "123.5 GB (115 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V24OA63A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "52 MiB/s",
+        "Minimum average access time": "12.70 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "71°C (159°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L120AVV207-0",
+    "capacity": "123.5 GB",
+    "firmware": "V24OA66A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L120AVV207-0",
+        "Capacity": "123.5 GB (115 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V24OA66A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "54 MiB/s",
+        "Minimum average access time": "12.60 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L100AVVA07-0",
+    "capacity": "102.9 GB",
+    "firmware": "VA5OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L100AVVA07-0",
+        "Capacity": "102.9 GB (95.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA5OA52A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "47 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "79°C (174°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L090AVV207-0",
+    "capacity": "82.3 GB",
+    "firmware": "V23OA66A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L090AVV207-0",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V23OA66A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "52 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "36 minutes",
+        "Maximum temperature": "72°C (161°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "46 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L090AVV207-0",
+    "capacity": "82.3 GB",
+    "firmware": "V23OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L090AVV207-0",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V23OA63A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "55 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "36 minutes",
+        "Maximum temperature": "103°C (217°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "46 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L080AVVA07-0",
+    "capacity": "82.3 GB",
+    "firmware": "VA4OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L080AVVA07-0",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA4OA52A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "38 minutes",
+        "Maximum temperature": "90°C (194°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "48 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L080AVVA07-0",
+    "capacity": "82.3 GB",
+    "firmware": "VA4OA50K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L080AVVA07-0",
+        "Capacity": "82.3 GB (76.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA4OA50K",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "23.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "38 minutes",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "48 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N080ATMR04-0",
+    "capacity": "80 GB",
+    "firmware": "MO4OAD4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N080ATMR04-0",
+        "Capacity": "80 GB (74.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO4OAD4A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "115 MiB/s",
+        "Maximum read speed": "30 MiB/s",
+        "Minimum average access time": "16.60 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "69 minutes",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "66 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N080ATMR04-0",
+    "capacity": "80 GB",
+    "firmware": "MO4OAD5A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N080ATMR04-0",
+        "Capacity": "80 GB (74.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO4OAD5A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "24 MiB/s",
+        "Minimum average access time": "18.40 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "69 minutes",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "66 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N080ATMR04-0",
+    "capacity": "80 GB",
+    "firmware": "MO4OAD1A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N080ATMR04-0",
+        "Capacity": "80 GB (74.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO4OAD1A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "23 MiB/s",
+        "Minimum average access time": "21.20 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "69 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "66 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307075",
+    "capacity": "76.8 GB",
+    "firmware": "TXAOA50C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307075",
+        "Capacity": "76.8 GB (71.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TXAOA50C",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.60 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "45 minutes",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "62 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307075",
+    "capacity": "76.8 GB",
+    "firmware": "TXAOA5AA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307075",
+        "Capacity": "76.8 GB (71.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TXAOA5AA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "45 minutes",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "62 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVVA07-0",
+    "capacity": "61.4 GB",
+    "firmware": "VA3OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVVA07-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA3OA52A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "94 MiB/s",
+        "Maximum read speed": "47 MiB/s",
+        "Minimum average access time": "10.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "29 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "36 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVVA07-0",
+    "capacity": "61.4 GB",
+    "firmware": "VA3OA50K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVVA07-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA3OA50K",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "67 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "29 minutes",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "36 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVV207-0",
+    "capacity": "61.4 GB",
+    "firmware": "V22OA66A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVV207-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V22OA66A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "55 MiB/s",
+        "Minimum average access time": "12.50 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "68°C (154°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVV207-0",
+    "capacity": "61.4 GB",
+    "firmware": "V22OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVV207-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "V22OA63A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "55 MiB/s",
+        "Minimum average access time": "13.90 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVER07-0",
+    "capacity": "61.4 GB",
+    "firmware": "ER6OA46A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVER07-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER6OA46A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "12.70 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "34 minutes",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "46 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L060AVER07-0",
+    "capacity": "61.4 GB",
+    "firmware": "ER6OA44A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L060AVER07-0",
+        "Capacity": "61.4 GB (57.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER6OA44A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "12.20 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "34 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "69°C (156°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "46 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N060ATMR04-0",
+    "capacity": "60 GB",
+    "firmware": "MO3OAD4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N060ATMR04-0",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO3OAD4A",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "30 MiB/s",
+        "Minimum average access time": "18.0 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "50 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N060ATMR04-0",
+    "capacity": "60 GB",
+    "firmware": "MO3OAD5A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N060ATMR04-0",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO3OAD5A",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "19.0 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "50 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N060ATMR04-0",
+    "capacity": "60 GB",
+    "firmware": "MO3OAD1A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N060ATMR04-0",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO3OAD1A",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "18.20 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "50 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N060ATMR04-0",
+    "capacity": "60 GB",
+    "firmware": "MO3OAD0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N060ATMR04-0",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO3OAD0A",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "86 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "19.90 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "50 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N060ATMR04-0",
+    "capacity": "60 GB",
+    "firmware": "MO3OADEA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N060ATMR04-0",
+        "Capacity": "60 GB (55.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO3OADEA",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "21.40 msec",
+        "Cache buffer": "7.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "50 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25T048ATDA05-0",
+    "capacity": "48 GB",
+    "firmware": "DA8OA76A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25T048ATDA05-0",
+        "Capacity": "48 GB (44.7 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "DA8OA76A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "17.10 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "53 minutes",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "52 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307045",
+    "capacity": "46.1 GB",
+    "firmware": "TX6OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307045",
+        "Capacity": "46.1 GB (42.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX6OA60A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.60 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "28 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "38 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVVN07-0",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OAG0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVVN07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OAG0A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "47 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "76°C (168°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVVN07-0",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OAF0C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVVN07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OAF0C",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "77°C (170°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVVA07-0",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OA52A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVVA07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OA52A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "48 MiB/s",
+        "Minimum average access time": "11.70 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "108°C (226°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVVA07-0",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OA50K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVVA07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OA50K",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "12.70 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Maximum temperature": "71°C (159°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVVA07-0",
+    "capacity": "41.1 GB",
+    "firmware": "VA2OA51A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVVA07-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OA51A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "43 MiB/s",
+        "Minimum average access time": "18.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVER07-0",
+    "capacity": "41.1 GB",
+    "firmware": "ER4OA46A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVER07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER4OA46A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "41 MiB/s",
+        "Minimum average access time": "12.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "23 minutes",
+        "Maximum temperature": "86°C (186°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVER07-0",
+    "capacity": "41.1 GB",
+    "firmware": "ER4OA44A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVER07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER4OA44A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "12.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "23 minutes",
+        "Maximum temperature": "83°C (181°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L040AVER07-0",
+    "capacity": "41.1 GB",
+    "firmware": "ER4OA45A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L040AVER07-0",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER4OA45A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "23 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305040",
+    "capacity": "41.1 GB",
+    "firmware": "TW4OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305040",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW4OA60A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "28 MiB/s",
+        "Minimum average access time": "15.10 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "42 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305040",
+    "capacity": "41.1 GB",
+    "firmware": "TW4OA68A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305040",
+        "Capacity": "41.1 GB (38.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW4OA68A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "14.90 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "42 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATMR04-0",
+    "capacity": "40 GB",
+    "firmware": "MO2OAD4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATMR04-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO2OAD4A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "18.30 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATMR04-0",
+    "capacity": "40 GB",
+    "firmware": "MO2OAD0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATMR04-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO2OAD0A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "18.80 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATMR04-0",
+    "capacity": "40 GB",
+    "firmware": "MO2OAD5A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATMR04-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO2OAD5A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "19.30 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATCS05-0",
+    "capacity": "40 GB",
+    "firmware": "CS4OA61A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATCS05-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CS4OA61A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "16.10 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "42 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "36 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATCS05-0",
+    "capacity": "40 GB",
+    "firmware": "CS4OA63A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATCS05-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CS4OA63A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "22 MiB/s",
+        "Minimum average access time": "17.91 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "42 minutes",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "36 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATCS05-0",
+    "capacity": "40 GB",
+    "firmware": "CS4OA69A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATCS05-0",
+        "Capacity": "36.8 GB (34.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CS4OA69A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "2 MiB/s",
+        "Maximum read speed": "1 MiB/s",
+        "Minimum average access time": "17.10 msec",
+        "Cache buffer": "7.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "42 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "36 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N040ATCS04-0",
+    "capacity": "40 GB",
+    "firmware": "CA4OA71A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N040ATCS04-0",
+        "Capacity": "40 GB (37.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CA4OA71A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "21 MiB/s",
+        "Minimum average access time": "18.30 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "78°C (172°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "44 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L030AVVN07-0",
+    "capacity": "30.7 GB",
+    "firmware": "VA2OAF0C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L030AVVN07-0",
+        "Capacity": "30.7 GB (28.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA2OAF0C",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "13.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "72°C (161°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L030AVER07-0",
+    "capacity": "30.7 GB",
+    "firmware": "ER3OA44A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L030AVER07-0",
+        "Capacity": "30.7 GB (28.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER3OA44A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "13.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "17 minutes",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L030AVER07-0",
+    "capacity": "30.7 GB",
+    "firmware": "ER3OA45A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L030AVER07-0",
+        "Capacity": "30.7 GB (28.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER3OA45A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "29 MiB/s",
+        "Minimum average access time": "12.80 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "17 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "24 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307030",
+    "capacity": "30.7 GB",
+    "firmware": "TX4OA50C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307030",
+        "Capacity": "30.7 GB (28.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX4OA50C",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307030",
+    "capacity": "30.7 GB",
+    "firmware": "TX4OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307030",
+        "Capacity": "30.7 GB (28.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX4OA60A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N030ATMR04-0",
+    "capacity": "30 GB",
+    "firmware": "MOAOAD4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N030ATMR04-0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MOAOAD4A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "22 MiB/s",
+        "Minimum average access time": "18.10 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N030ATMR04-0",
+    "capacity": "30 GB",
+    "firmware": "MOAOAD0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N030ATMR04-0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MOAOAD0A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "22 MiB/s",
+        "Minimum average access time": "17.90 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "69°C (156°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N030ATMR04-0",
+    "capacity": "30 GB",
+    "firmware": "MOAOAD5A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N030ATMR04-0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MOAOAD5A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "72 MiB/s",
+        "Maximum read speed": "22 MiB/s",
+        "Minimum average access time": "19.20 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N030ATCS04-0",
+    "capacity": "30 GB",
+    "firmware": "CA3OA71A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N030ATCS04-0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CA3OA71A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "18.40 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "37 minutes",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "34 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-230",
+    "capacity": "30 GB",
+    "firmware": "JS6OAC0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-230",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS6OAC0A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "59 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "18.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "41 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "42 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N030ATDA04-0",
+    "capacity": "30 GB",
+    "firmware": "DA4OA76A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N030ATDA04-0",
+        "Capacity": "30 GB (27.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "DA4OA76A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "19.10 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "38 minutes",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "38 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJNA-352500",
+    "capacity": "25.5 GB",
+    "firmware": "J51OA30K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJNA-352500",
+        "Capacity": "25.5 GB (23.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "J51OA30K",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "62 MiB/s",
+        "Maximum read speed": "13 MiB/s",
+        "Minimum average access time": "14.60 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "42 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJNA-372200",
+    "capacity": "22.6 GB",
+    "firmware": "J71OA30K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJNA-372200",
+        "Capacity": "22.6 GB (21 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "J71OA30K",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "62 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "13.0 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L020AVVN07-0",
+    "capacity": "20.5 GB",
+    "firmware": "VA1OAF0C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L020AVVN07-0",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA1OAF0C",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "93 MiB/s",
+        "Maximum read speed": "42 MiB/s",
+        "Minimum average access time": "14.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L020AVER07-0",
+    "capacity": "20.5 GB",
+    "firmware": "ER2OA44A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L020AVER07-0",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER2OA44A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "36 MiB/s",
+        "Minimum average access time": "13.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "12 minutes",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L020AVER07-0",
+    "capacity": "20.5 GB",
+    "firmware": "ER2OA45A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L020AVER07-0",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER2OA45A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "82 MiB/s",
+        "Maximum read speed": "39 MiB/s",
+        "Minimum average access time": "12.50 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "12 minutes",
+        "Maximum temperature": "69°C (156°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L020AVER07-0",
+    "capacity": "20.5 GB",
+    "firmware": "ER2OA46A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L020AVER07-0",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "ER2OA46A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "36 MiB/s",
+        "Minimum average access time": "17.54 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "12 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307020",
+    "capacity": "20.5 GB",
+    "firmware": "TX3OA50C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307020",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX3OA50C",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "11.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "14 minutes",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307020",
+    "capacity": "20.5 GB",
+    "firmware": "TX3OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307020",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX3OA60A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "12.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "14 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305020",
+    "capacity": "20.5 GB",
+    "firmware": "TW2OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305020",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW2OA60A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "92 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "14.70 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "15 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305020",
+    "capacity": "20.5 GB",
+    "firmware": "TW2OA6AA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305020",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW2OA6AA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "62 MiB/s",
+        "Maximum read speed": "26 MiB/s",
+        "Minimum average access time": "15.10 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "15 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DPTA-372050",
+    "capacity": "20.5 GB",
+    "firmware": "P76OA30A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DPTA-372050",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P76OA30A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "58 MiB/s",
+        "Maximum read speed": "21 MiB/s",
+        "Minimum average access time": "11.54 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DPTA-372050",
+    "capacity": "20.5 GB",
+    "firmware": "P76GA30A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DPTA-372050",
+        "Capacity": "20.5 GB (19.1 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "P76GA30A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "62 MiB/s",
+        "Maximum read speed": "21 MiB/s",
+        "Minimum average access time": "14.30 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC35L020AVVA07-0",
+    "capacity": "20 GB",
+    "firmware": "VA1OA51A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC35L020AVVA07-0",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "VA1OA51A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "90 MiB/s",
+        "Maximum read speed": "44 MiB/s",
+        "Minimum average access time": "18.90 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N020ATMR04-0",
+    "capacity": "20 GB",
+    "firmware": "MO1OAD0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N020ATMR04-0",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO1OAD0A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "18.20 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "21 minutes",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "18 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N020ATMR04-0",
+    "capacity": "20 GB",
+    "firmware": "MO1OAD4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N020ATMR04-0",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "MO1OAD4A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "25 MiB/s",
+        "Minimum average access time": "18.70 msec",
+        "Cache buffer": "1.6 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "21 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "18 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N020ATCS04-0",
+    "capacity": "20 GB",
+    "firmware": "CA2OA71A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N020ATCS04-0",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CA2OA71A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "65 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "19.0 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "26 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N020ATCS04-0",
+    "capacity": "20 GB",
+    "firmware": "CA2OA72A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N020ATCS04-0",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CA2OA72A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "17 MiB/s",
+        "Minimum average access time": "19.0 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "26 minutes",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-220",
+    "capacity": "20 GB",
+    "firmware": "JS4IAC1A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-220",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS4IAC1A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "59 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "19.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "29 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-220",
+    "capacity": "20 GB",
+    "firmware": "JS4IAC6A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-220",
+        "Capacity": "20 GB (18.6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS4IAC6A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "20 MiB/s",
+        "Maximum read speed": "12 MiB/s",
+        "Minimum average access time": "19.10 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "29 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "30 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJNA-351520",
+    "capacity": "15.3 GB",
+    "firmware": "J56OA30K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJNA-351520",
+        "Capacity": "15.3 GB (14.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "J56OA30K",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "39 MiB/s",
+        "Maximum read speed": "13 MiB/s",
+        "Minimum average access time": "14.70 msec",
+        "Cache buffer": "430 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307015",
+    "capacity": "15.3 GB",
+    "firmware": "TX2OA50C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307015",
+        "Capacity": "15.3 GB (14.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX2OA50C",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "91 MiB/s",
+        "Maximum read speed": "31 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307015",
+    "capacity": "15.3 GB",
+    "firmware": "TX2OA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307015",
+        "Capacity": "15.3 GB (14.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX2OA60A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "32 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307015",
+    "capacity": "15.3 GB",
+    "firmware": "TX2DA50C",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307015",
+        "Capacity": "15 GB (13.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX2DA50C",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "30 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-307015",
+    "capacity": "15.3 GB",
+    "firmware": "TX2OA5AA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-307015",
+        "Capacity": "15.3 GB (14.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TX2OA5AA",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "80 MiB/s",
+        "Maximum read speed": "33 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "1.8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DPTA-351500",
+    "capacity": "15 GB",
+    "firmware": "P54OA30A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DPTA-351500",
+        "Capacity": "15 GB (13.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "P54OA30A",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "61 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "20.10 msec",
+        "Cache buffer": "425 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "17 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DPTA-371360",
+    "capacity": "13.6 GB",
+    "firmware": "P74OA30A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DPTA-371360",
+        "Capacity": "13.6 GB (12.7 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "P74OA30A",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "14.0 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DARA-212000",
+    "capacity": "12 GB",
+    "firmware": "AR4OA5AA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DARA-212000",
+        "Capacity": "12 GB (11.2 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "AR4OA5AA",
+        "Firmware upgrade": "not supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "23 MiB/s",
+        "Maximum read speed": "1 MiB/s",
+        "Minimum average access time": "36.50 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "26 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTTA-351010",
+    "capacity": "10.1 GB",
+    "firmware": "T56OA73A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTTA-351010",
+        "Capacity": "10.1 GB (9.4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "T56OA73A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "10 MiB/s",
+        "Minimum average access time": "15.70 msec",
+        "Cache buffer": "466 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "22 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305010",
+    "capacity": "10.1 GB",
+    "firmware": "TW1HA69A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305010",
+        "Capacity": "10.1 GB (9.4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW1HA69A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "89 MiB/s",
+        "Maximum read speed": "20 MiB/s",
+        "Minimum average access time": "14.80 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTLA-305010",
+    "capacity": "10.1 GB",
+    "firmware": "TW1IA60A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTLA-305010",
+        "Capacity": "10.1 GB (9.4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "TW1IA60A",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "26 MiB/s",
+        "Minimum average access time": "15.0 msec",
+        "Cache buffer": "380 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N010ATDA04-0",
+    "capacity": "10 GB",
+    "firmware": "DACOA76A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N010ATDA04-0",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "DACOA76A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "14 MiB/s",
+        "Maximum read speed": "12 MiB/s",
+        "Minimum average access time": "17.90 msec",
+        "Cache buffer": "347 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "19 minutes",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IC25N010ATCS04-0",
+    "capacity": "10 GB",
+    "firmware": "CA1OA71A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IC25N010ATCS04-0",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "CA1OA71A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "18 MiB/s",
+        "Minimum average access time": "19.10 msec",
+        "Cache buffer": "1.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "15 minutes",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-210",
+    "capacity": "10 GB",
+    "firmware": "JS2OAB0A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-210",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS2OAB0A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "58 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "19.60 msec",
+        "Cache buffer": "384 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-210",
+    "capacity": "10 GB",
+    "firmware": "JSAOAB8A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-210",
+        "Capacity": "6 GB (5.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JSAOAB8A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "31 MiB/s",
+        "Maximum read speed": "15 MiB/s",
+        "Minimum average access time": "16.40 msec",
+        "Cache buffer": "384 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-210",
+    "capacity": "10 GB",
+    "firmware": "JS2OAB8A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-210",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS2OAB8A",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "22 MiB/s",
+        "Maximum read speed": "12 MiB/s",
+        "Minimum average access time": "20.10 msec",
+        "Cache buffer": "384 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJSA-210",
+    "capacity": "10 GB",
+    "firmware": "JS2OABDA",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJSA-210",
+        "Capacity": "10 GB (9.3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "JS2OABDA",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "59 MiB/s",
+        "Maximum read speed": "14 MiB/s",
+        "Minimum average access time": "20.60 msec",
+        "Cache buffer": "384 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DJNA-370910",
+    "capacity": "9.1 GB",
+    "firmware": "J74OA30K",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DJNA-370910",
+        "Capacity": "9.1 GB (8.4 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "3",
+        "Firmware": "J74OA30K",
+        "Firmware upgrade": "supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "44,4 MB/s",
+        "Maximum buffered read speed": "42 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "13.60 msec",
+        "Cache buffer": "1.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "12 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DBCA-206480",
+    "capacity": "6.4 GB",
+    "firmware": "BC4OA87F",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DBCA-206480",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "BC4OA87F",
+        "Firmware upgrade": "not supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "3 MiB/s",
+        "Maximum read speed": "2 MiB/s",
+        "Minimum average access time": "20.80 msec",
+        "Cache buffer": "420.4 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTTA-350640",
+    "capacity": "6.4 GB",
+    "firmware": "T54IA73A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTTA-350640",
+        "Capacity": "6.4 GB (6 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "T54IA73A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "30 MiB/s",
+        "Maximum read speed": "11 MiB/s",
+        "Minimum average access time": "15.70 msec",
+        "Cache buffer": "468.4 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DARA-206000",
+    "capacity": "6 GB",
+    "firmware": "AR2OA51A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DARA-206000",
+        "Capacity": "6 GB (5.5 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "4",
+        "Firmware": "AR2OA51A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "66,7 MB/s",
+        "Maximum buffered read speed": "5 MiB/s",
+        "Maximum read speed": "4 MiB/s",
+        "Minimum average access time": "20.90 msec",
+        "Cache buffer": "418 KiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "13 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "14 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "IBM",
+    "model": "IBM-DTCA-23240",
+    "capacity": "3.2 GB",
+    "firmware": "TC5OAB4A",
+    "sections": {
+      "General information": {
+        "Trademark": "IBM",
+        "Model": "IBM-DTCA-23240",
+        "Capacity": "3.2 GB (3 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "2",
+        "Firmware": "TC5OAB4A",
+        "Firmware upgrade": "not supported",
+        "ATA version": "3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "33,3 MB/s",
+        "Maximum buffered read speed": "4 MiB/s",
+        "Maximum read speed": "3 MiB/s",
+        "Minimum average access time": "24.0 msec",
+        "Cache buffer": "468 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  }
+]
