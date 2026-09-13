@@ -1,0 +1,1103 @@
+[
+  {
+    "brand": "Mediamax",
+    "model": "WL4000GSA6472E        0",
+    "capacity": "4 TB",
+    "firmware": "MJAONS04",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL4000GSA6472E 0",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MJAONS04",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "441 MiB/s",
+        "Maximum read speed": "244 MiB/s",
+        "Minimum average access time": "12.57 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL4000GSA6454      0",
+    "capacity": "4 TB",
+    "firmware": "MJAOA580",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL4000GSA6454 0",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MJAOA580",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "416 MiB/s",
+        "Maximum read speed": "234 MiB/s",
+        "Minimum average access time": "12.69 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL3000GSA6472B",
+    "capacity": "3 TB",
+    "firmware": "01.01D01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL3000GSA6472B",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.01D01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "222 MiB/s",
+        "Maximum read speed": "119 MiB/s",
+        "Minimum average access time": "15.58 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL3000GSA6472         1",
+    "capacity": "3 TB",
+    "firmware": "MJ8OA5F0",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL3000GSA6472 1",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MJ8OA5F0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "446 MiB/s",
+        "Maximum read speed": "251 MiB/s",
+        "Minimum average access time": "12.40 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "1 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL3000GSA6454",
+    "capacity": "3 TB",
+    "firmware": "80.00A80",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL3000GSA6454",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "80.00A80",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "126 MiB/s",
+        "Maximum read speed": "104 MiB/s",
+        "Minimum average access time": "22.2 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "428 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL2000GSA6472E",
+    "capacity": "2 TB",
+    "firmware": "01.01K02",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL2000GSA6472E",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "01.01K02",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "229 MiB/s",
+        "Maximum read speed": "146 MiB/s",
+        "Minimum average access time": "18.38 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "270 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL2000GSA6454G",
+    "capacity": "2 TB",
+    "firmware": "51.0AB51",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL2000GSA6454G",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "51.0AB51",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "220 MiB/s",
+        "Maximum read speed": "119 MiB/s",
+        "Minimum average access time": "19.49 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "374 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL2000GSA6454G",
+    "capacity": "2 TB",
+    "firmware": "80.00A80",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL2000GSA6454G",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "80.00A80",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "390 MiB/s",
+        "Maximum read speed": "140 MiB/s",
+        "Minimum average access time": "33.49 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "300 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1500GSA6454G",
+    "capacity": "1.5 TB",
+    "firmware": "04.05G09",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1500GSA6454G",
+        "Capacity": "1.5 TB (1.3 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "04.05G09",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "226 MiB/s",
+        "Maximum read speed": "117 MiB/s",
+        "Minimum average access time": "13.55 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "306 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1500GSA6454G",
+    "capacity": "1.5 TB",
+    "firmware": "80.00A80",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1500GSA6454G",
+        "Capacity": "1.5 TB (1.3 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "80.00A80",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "238 MiB/s",
+        "Maximum read speed": "92 MiB/s",
+        "Minimum average access time": "15.0 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "336 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1000GSA6472B",
+    "capacity": "1 TB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1000GSA6472B",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "412 MiB/s",
+        "Maximum read speed": "195 MiB/s",
+        "Minimum average access time": "15.98 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "109 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "114 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1000GSA6472",
+    "capacity": "1 TB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1000GSA6472",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "314 MiB/s",
+        "Maximum read speed": "139 MiB/s",
+        "Minimum average access time": "18.33 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "135 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "138 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1000GSA3272",
+    "capacity": "1 TB",
+    "firmware": "80.00A80",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1000GSA3272",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "80.00A80",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "424 MiB/s",
+        "Maximum read speed": "198 MiB/s",
+        "Minimum average access time": "19.7 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "20",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "115 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "106 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL1000GLSA854G",
+    "capacity": "1 TB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL1000GLSA854G",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "211 MiB/s",
+        "Maximum read speed": "77 MiB/s",
+        "Minimum average access time": "18.74 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "252 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "264 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL500GSA1672",
+    "capacity": "500.1 GB",
+    "firmware": "01.00A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL500GSA1672",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.00A01",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "227 MiB/s",
+        "Maximum read speed": "86 MiB/s",
+        "Minimum average access time": "20.95 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "140 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "122 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL500GSA1672",
+    "capacity": "500.1 GB",
+    "firmware": "A1.01BA1",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL500GSA1672",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "A1.01BA1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "223 MiB/s",
+        "Maximum read speed": "113 MiB/s",
+        "Minimum average access time": "15.88 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "102 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "86 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL500GLSA854",
+    "capacity": "500.1 GB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL500GLSA854",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "203 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "19.26 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "158 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "66°C (150°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "138 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL500GLSA64100",
+    "capacity": "500.1 GB",
+    "firmware": "04.06A00",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL500GLSA64100",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "04.06A00",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "241 MiB/s",
+        "Maximum read speed": "168 MiB/s",
+        "Minimum average access time": "6.67 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "10000 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "58 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "52 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL500GLSA1672B",
+    "capacity": "494.7 GB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL500GLSA1672B",
+        "Capacity": "494.7 GB (460.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "227 MiB/s",
+        "Maximum read speed": "114 MiB/s",
+        "Minimum average access time": "26.15 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "84 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "84 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL300GLSA16100",
+    "capacity": "300 GB",
+    "firmware": "04.04V06",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL300GLSA16100",
+        "Capacity": "300 GB (279.4 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "04.04V06",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "180 MiB/s",
+        "Maximum read speed": "93 MiB/s",
+        "Minimum average access time": "11.21 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "10000 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "59 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "48 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Mediamax",
+    "model": "WL80GBSATA",
+    "capacity": "80 GB",
+    "firmware": "21.00M21",
+    "sections": {
+      "General information": {
+        "Trademark": "Mediamax",
+        "Model": "WL80GBSATA",
+        "Capacity": "80 GB (74.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "21.00M21",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "185 MiB/s",
+        "Maximum read speed": "66 MiB/s",
+        "Minimum average access time": "12.21 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "40 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "22°C (71°F)",
+        "Average maximum temperature": "22°C (71°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

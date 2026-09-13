@@ -1,0 +1,209 @@
+[
+  {
+    "brand": "i.norys",
+    "model": "INO-IHDD0500S2-D1-7232",
+    "capacity": "500.1 GB",
+    "firmware": "01.00A01",
+    "sections": {
+      "General information": {
+        "Trademark": "i.norys",
+        "Model": "INO-IHDD0500S2-D1-7232",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.00A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "232 MiB/s",
+        "Maximum read speed": "94 MiB/s",
+        "Minimum average access time": "18.86 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "136 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "118 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "i.norys",
+    "model": "INO-IHDD0500S2-D1-5908",
+    "capacity": "500.1 GB",
+    "firmware": "SC13",
+    "sections": {
+      "General information": {
+        "Trademark": "i.norys",
+        "Model": "INO-IHDD0500S2-D1-5908",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "SC13",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "215 MiB/s",
+        "Maximum read speed": "115 MiB/s",
+        "Minimum average access time": "19.0 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5900 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "106 minutes",
+        "Maximum temperature": "31°C (87°F)",
+        "Average maximum temperature": "31°C (87°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "90 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "i.norys",
+    "model": "INO-IHDD0250S2-D1-7208",
+    "capacity": "250 GB",
+    "firmware": "01.03E01",
+    "sections": {
+      "General information": {
+        "Trademark": "i.norys",
+        "Model": "INO-IHDD0250S2-D1-7208",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "01.03E01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "224 MiB/s",
+        "Maximum read speed": "86 MiB/s",
+        "Minimum average access time": "15.70 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "68 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "56 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "i.norys",
+    "model": "IN0-IHDD0160S2-D1-7208",
+    "capacity": "160 GB",
+    "firmware": "58.01D58",
+    "sections": {
+      "General information": {
+        "Trademark": "i.norys",
+        "Model": "IN0-IHDD0160S2-D1-7208",
+        "Capacity": "160 GB (149 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "58.01D58",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "194 MiB/s",
+        "Maximum read speed": "82 MiB/s",
+        "Minimum average access time": "13.56 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "50 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "40 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

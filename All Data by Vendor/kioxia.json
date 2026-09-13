@@ -1,0 +1,4689 @@
+[
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA PLUS G3 SSD",
+    "capacity": "2 TB",
+    "firmware": "ELFA01.2",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA PLUS G3 SSD",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ELFA01.2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3968 MiB/s",
+        "Maximum read speed": "3858 MiB/s",
+        "Minimum average access time": "0.1 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA G2 SSD",
+    "capacity": "2 TB",
+    "firmware": "ECFA17.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA G2 SSD",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA17.1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "2125 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA G2 SSD",
+    "capacity": "2 TB",
+    "firmware": "ECFA17.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA G2 SSD",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA17.3",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "10 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1950 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA  KPM6WVUG1T60",
+    "capacity": "1.6 TB",
+    "firmware": "1.5502",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA KPM6WVUG1T60",
+        "Capacity": "1.6 TB (1.4 TiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "unknown",
+        "Firmware": "1.5502",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "301 MiB/s",
+        "Maximum read speed": "149 MiB/s",
+        "Minimum average access time": "1.87 msec",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "7",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "> 255 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG60ZNV1T02 KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "HP02AS00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG60ZNV1T02 KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP02AS00",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1822 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "81°C (177°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG60ZNS1T02 KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "ASXA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG60ZNS1T02 KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ASXA0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1729 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNV1T02 LA KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "1109ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNV1T02 LA KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1109ANLA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3165 MiB/s",
+        "Maximum read speed": "2636 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNV1T02 LA KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "1108ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNV1T02 LA KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1108ANLA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2860 MiB/s",
+        "Maximum read speed": "2528 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV1T02 KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "HP02AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV1T02 KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP02AN00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3531 MiB/s",
+        "Maximum read speed": "3090 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV1T02 KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "HP01AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV1T02 KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP01AN00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2129 MiB/s",
+        "Maximum read speed": "1604 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "23 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZPZ1T02 NVMe KIOXIA 1024GB",
+    "capacity": "1 TB",
+    "firmware": "10400106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZPZ1T02 NVMe KIOXIA 1024GB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10400106",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1965 MiB/s",
+        "Maximum read speed": "1565 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "49 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV1T02 KIOXIA",
+    "capacity": "1 TB",
+    "firmware": "HP00AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV1T02 KIOXIA",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP00AE00",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2189 MiB/s",
+        "Maximum read speed": "1944 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "49 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS1T02 NVMe KIOXIA 1024GB",
+    "capacity": "1 TB",
+    "firmware": "10410106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS1T02 NVMe KIOXIA 1024GB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410106",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1543 MiB/s",
+        "Maximum read speed": "622 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "49 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "32°C (89°F)",
+        "Average maximum temperature": "32°C (89°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 KIOXIA 1024GB",
+    "capacity": "1 TB",
+    "firmware": "11500106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 KIOXIA 1024GB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11500106",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3071 MiB/s",
+        "Maximum read speed": "1915 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SSD",
+    "capacity": "1 TB",
+    "firmware": "ECFA12.b",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SSD",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA12.b",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1347 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SSD",
+    "capacity": "1 TB",
+    "firmware": "ECFA15.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SSD",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA15.3",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1529 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SSD",
+    "capacity": "1 TB",
+    "firmware": "ECFA12.c",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SSD",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA12.c",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1423 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SSD",
+    "capacity": "1 TB",
+    "firmware": "ECFA12.7",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SSD",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA12.7",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1187 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SSD",
+    "capacity": "1 TB",
+    "firmware": "ECFA15.4",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SSD",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA15.4",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "7 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1357 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA PRO SSD",
+    "capacity": "1 TB",
+    "firmware": "EIFA10.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA PRO SSD",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EIFA10.1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1465 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "89°C (192°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA15.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA15.5",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "483 MiB/s",
+        "Maximum read speed": "425 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA1a.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA1a.1",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "496 MiB/s",
+        "Maximum read speed": "448 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA18.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA18.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "490 MiB/s",
+        "Maximum read speed": "458 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA1b.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA1b.1",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "490 MiB/s",
+        "Maximum read speed": "479 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA15.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA15.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "495 MiB/s",
+        "Maximum read speed": "447 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA12.7",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA12.7",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "445 MiB/s",
+        "Maximum read speed": "388 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "67°C (152°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA16.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA16.5",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "497 MiB/s",
+        "Maximum read speed": "422 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA17.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA17.1",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "478 MiB/s",
+        "Maximum read speed": "429 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA18.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA18.1",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "465 MiB/s",
+        "Maximum read speed": "416 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA12.a",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA12.a",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "496 MiB/s",
+        "Maximum read speed": "486 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "26°C (78°F)",
+        "Average maximum temperature": "26°C (78°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA13.4",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA13.4",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "40 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA13.6",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA13.6",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "213 MiB/s",
+        "Minimum average access time": "1.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA16.2",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA16.2",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "414 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA17.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA17.5",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "390 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA SATA SSD",
+    "capacity": "960.1 GB",
+    "firmware": "SBFA19.2",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA SATA SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFA19.2",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "410 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG6AZNV512G LA KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "1112AXLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG6AZNV512G LA KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1112AXLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1416 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNV512G LA KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "1104ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNV512G LA KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1104ANLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1455 MiB/s",
+        "Maximum read speed": "904 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNT512G LA KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "1109ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNT512G LA KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1109ANLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "861 MiB/s",
+        "Maximum read speed": "819 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "HP02AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP02AN00",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3709 MiB/s",
+        "Maximum read speed": "3086 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "HP01AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP01AN00",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2108 MiB/s",
+        "Maximum read speed": "1740 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ANXA0105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ANXA0105",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3307 MiB/s",
+        "Maximum read speed": "2505 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ANXA0106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ANXA0106",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3870 MiB/s",
+        "Maximum read speed": "3371 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ANXA0104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ANXA0104",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "746 MiB/s",
+        "Maximum read speed": "691 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNT512G LS KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "0107ANLS",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNT512G LS KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "0107ANLS",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1243 MiB/s",
+        "Maximum read speed": "632 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNS512G NVMe KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "11200108",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNS512G NVMe KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11200108",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1508 MiB/s",
+        "Maximum read speed": "1153 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNS512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ANGA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNS512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ANGA0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "769 MiB/s",
+        "Maximum read speed": "670 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "13 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "75°C (167°F)",
+        "Average maximum temperature": "70°C (158°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG4AZNS512G TOSHIBA MEMORY",
+    "capacity": "512.1 GB",
+    "firmware": "AEPA1102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG4AZNS512G TOSHIBA MEMORY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEPA1102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1656 MiB/s",
+        "Maximum read speed": "1344 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZPZ512G TOSHIBA MEMORY",
+    "capacity": "512.1 GB",
+    "firmware": "AEMS0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZPZ512G TOSHIBA MEMORY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2185 MiB/s",
+        "Maximum read speed": "1988 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "HP00AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP00AE00",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2273 MiB/s",
+        "Maximum read speed": "2043 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "AEXA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEXA0102",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1065 MiB/s",
+        "Maximum read speed": "762 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "69°C (156°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "AEXA0101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEXA0101",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2193 MiB/s",
+        "Maximum read speed": "1807 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "AEGA0103",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEGA0103",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1220 MiB/s",
+        "Maximum read speed": "562 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "HP01AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP01AE00",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2298 MiB/s",
+        "Maximum read speed": "1681 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNT512G TOSHIBA MEMORY",
+    "capacity": "512.1 GB",
+    "firmware": "0109AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNT512G TOSHIBA MEMORY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0109AELA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2212 MiB/s",
+        "Maximum read speed": "1977 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNT512G TOSHIBA MEMORY",
+    "capacity": "512.1 GB",
+    "firmware": "0105AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNT512G TOSHIBA MEMORY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0105AELA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "727 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS512G NVMe KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "10410106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS512G NVMe KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410106",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2298 MiB/s",
+        "Maximum read speed": "1928 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS512G NVMe KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "10410105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS512G NVMe KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410105",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2220 MiB/s",
+        "Maximum read speed": "1937 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "27 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZPZ512G TOSHIBA",
+    "capacity": "512.1 GB",
+    "firmware": "ADMS0101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZPZ512G TOSHIBA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "ADMS0101",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "2 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "886 MiB/s",
+        "Maximum read speed": "821 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV512G TOSHIBA",
+    "capacity": "512.1 GB",
+    "firmware": "ADXA0103",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV512G TOSHIBA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADXA0103",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "411 MiB/s",
+        "Maximum read speed": "310 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "81°C (177°F)",
+        "Average maximum temperature": "70°C (158°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV512G TOSHIBA",
+    "capacity": "512.1 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV512G TOSHIBA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1104 MiB/s",
+        "Maximum read speed": "601 MiB/s",
+        "Minimum average access time": "0.39 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "324 MiB/s",
+        "Maximum read speed": "218 MiB/s",
+        "Minimum average access time": "0.49 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV512G KIOXIA",
+    "capacity": "512.1 GB",
+    "firmware": "ADHA0104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV512G KIOXIA",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0104",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum read speed": "362 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMS512G NVMe TOSHIBA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "ADDA0105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMS512G NVMe TOSHIBA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "ADDA0105",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "367 MiB/s",
+        "Maximum read speed": "282 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "76 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 SED KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "12001101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 SED KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "12001101",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3434 MiB/s",
+        "Maximum read speed": "3295 MiB/s",
+        "Minimum average access time": "0.1 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "12000102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "12000102",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2119 MiB/s",
+        "Maximum read speed": "1767 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "12000103",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "12000103",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1566 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 KIOXIA 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "12000105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 KIOXIA 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "12000105",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1592 MiB/s",
+        "Maximum read speed": "1058 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KIOXIA-EXCERIA PLUS G2 SSD",
+    "capacity": "500.1 GB",
+    "firmware": "ECFA13.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KIOXIA-EXCERIA PLUS G2 SSD",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFA13.3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "10 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1887 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "72°C (161°F)",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG60ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "HP02AX00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG60ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP02AX00",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1630 MiB/s",
+        "Maximum read speed": "1549 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "81°C (177°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNV256G LA KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "1109ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNV256G LA KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1109ANLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1017 MiB/s",
+        "Maximum read speed": "638 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG5AZNT256G LA KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "1109ANLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG5AZNT256G LA KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1109ANLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "979 MiB/s",
+        "Maximum read speed": "652 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "HP01AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP01AN00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2137 MiB/s",
+        "Maximum read speed": "1609 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "HP02AN00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HP02AN00",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3531 MiB/s",
+        "Maximum read speed": "2683 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "25°C (77°F)",
+        "Average maximum temperature": "25°C (77°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNT256G LS KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "0106ANLS",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNT256G LS KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "0106ANLS",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1530 MiB/s",
+        "Maximum read speed": "579 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "78°C (172°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "71°C (159°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNS256G NVMe KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "11200108",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNS256G NVMe KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11200108",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2115 MiB/s",
+        "Maximum read speed": "793 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG50ZNS256G NVMe KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "11200109",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG50ZNS256G NVMe KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11200109",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1220 MiB/s",
+        "Maximum read speed": "507 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "9 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZPZ256G TOSHIBA MEMORY",
+    "capacity": "256 GB",
+    "firmware": "AEMS0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZPZ256G TOSHIBA MEMORY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "659 MiB/s",
+        "Maximum read speed": "600 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "HP00AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP00AE00",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2311 MiB/s",
+        "Maximum read speed": "2004 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "79°C (174°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "HP01AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP01AE00",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "627 MiB/s",
+        "Maximum read speed": "477 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "AEJA0103",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEJA0103",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1286 MiB/s",
+        "Maximum read speed": "551 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "28°C (82°F)",
+        "Average maximum temperature": "28°C (82°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNT256G TOSHIBA MEMORY",
+    "capacity": "256 GB",
+    "firmware": "0105AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNT256G TOSHIBA MEMORY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0105AELA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1994 MiB/s",
+        "Maximum read speed": "1885 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNT256G TOSHIBA MEMORY",
+    "capacity": "256 GB",
+    "firmware": "0109AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNT256G TOSHIBA MEMORY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0109AELA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2174 MiB/s",
+        "Maximum read speed": "1712 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNT256G TOSHIBA MEMORY",
+    "capacity": "256 GB",
+    "firmware": "0104AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNT256G TOSHIBA MEMORY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0104AELA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "571 MiB/s",
+        "Maximum read speed": "458 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G TOSHIBA MEMORY",
+    "capacity": "256 GB",
+    "firmware": "AEMS0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G TOSHIBA MEMORY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "324 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G NVMe TOSHIBA 256GB",
+    "capacity": "256 GB",
+    "firmware": "10410106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G NVMe TOSHIBA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410106",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1630 MiB/s",
+        "Maximum read speed": "1033 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G NVMe TOSHIBA 256GB",
+    "capacity": "256 GB",
+    "firmware": "10410101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G NVMe TOSHIBA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410101",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "683 MiB/s",
+        "Maximum read speed": "441 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "10410106",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410106",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1180 MiB/s",
+        "Maximum read speed": "1130 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "10410105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410105",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "596 MiB/s",
+        "Maximum read speed": "577 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "80°C (176°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "10410104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G NVMe KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410104",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "752 MiB/s",
+        "Maximum read speed": "614 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "81°C (177°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS256G BG4A KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "AEMS0104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS256G BG4A KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0104",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "361 MiB/s",
+        "Maximum read speed": "292 MiB/s",
+        "Minimum average access time": "0.29 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "11 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG3AZMS256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADGA1102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG3AZMS256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADGA1102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1114 MiB/s",
+        "Maximum read speed": "1009 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "75°C (167°F)",
+        "Average maximum temperature": "75°C (167°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZPZ256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADMS0101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZPZ256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "ADMS0101",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "2 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "676 MiB/s",
+        "Maximum read speed": "452 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADHA0101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0101",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1136 MiB/s",
+        "Maximum read speed": "933 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1124 MiB/s",
+        "Maximum read speed": "879 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "71°C (159°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADXA0103",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADXA0103",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1093 MiB/s",
+        "Maximum read speed": "673 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "84°C (183°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "ADHA0104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0104",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "406 MiB/s",
+        "Maximum read speed": "352 MiB/s",
+        "Minimum average access time": "0.24 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV256G KIOXIA",
+    "capacity": "256 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV256G KIOXIA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1174 MiB/s",
+        "Maximum read speed": "1091 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "79°C (174°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMT256G TOSHIBA",
+    "capacity": "256 GB",
+    "firmware": "0109ADLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMT256G TOSHIBA",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "0109ADLA",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1098 MiB/s",
+        "Maximum read speed": "1021 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMS256G NVMe TOSHIBA 256GB",
+    "capacity": "256 GB",
+    "firmware": "ADDA0105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMS256G NVMe TOSHIBA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "ADDA0105",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "339 MiB/s",
+        "Maximum read speed": "312 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "39 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "BG6 KIOXIA 256GB",
+    "capacity": "256 GB",
+    "firmware": "12000105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "BG6 KIOXIA 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "12000105",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3918 MiB/s",
+        "Maximum read speed": "2812 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZPZ128G TOSHIBA MEMORY",
+    "capacity": "128 GB",
+    "firmware": "AEMS0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZPZ128G TOSHIBA MEMORY",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "304 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNV128G KIOXIA",
+    "capacity": "128 GB",
+    "firmware": "HP01AE00",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNV128G KIOXIA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "HP01AE00",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2013 MiB/s",
+        "Maximum read speed": "1934 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "73°C (163°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS128G NVMe KIOXIA 128GB",
+    "capacity": "128 GB",
+    "firmware": "10410105",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS128G NVMe KIOXIA 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "10410105",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "375 MiB/s",
+        "Maximum read speed": "272 MiB/s",
+        "Minimum average access time": "0.58 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZNS128G BG4A KIOXIA",
+    "capacity": "128 GB",
+    "firmware": "AEMS0104",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZNS128G BG4A KIOXIA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AEMS0104",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "747 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZMT128G TOSHIBA MEMORY",
+    "capacity": "128 GB",
+    "firmware": "0105AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZMT128G TOSHIBA MEMORY",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0105AELA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "2 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1331 MiB/s",
+        "Maximum read speed": "1201 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (61 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG40ZMT128G TOSHIBA MEMORY",
+    "capacity": "128 GB",
+    "firmware": "0107AELA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG40ZMT128G TOSHIBA MEMORY",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "0107AELA",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "2 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1221 MiB/s",
+        "Maximum read speed": "959 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "86°C (186°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV128G TOSHIBA",
+    "capacity": "128 GB",
+    "firmware": "ADHA0101",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV128G TOSHIBA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0101",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "665 MiB/s",
+        "Maximum read speed": "557 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV128G TOSHIBA",
+    "capacity": "128 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV128G TOSHIBA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1135 MiB/s",
+        "Maximum read speed": "878 MiB/s",
+        "Minimum average access time": "5.31 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMV128G KIOXIA",
+    "capacity": "128 GB",
+    "firmware": "ADHA0102",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMV128G KIOXIA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "ADHA0102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "380 MiB/s",
+        "Maximum read speed": "282 MiB/s",
+        "Minimum average access time": "16.95 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMT128G TOSHIBA",
+    "capacity": "128 GB",
+    "firmware": "0109ADLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMT128G TOSHIBA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "0109ADLA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1096 MiB/s",
+        "Maximum read speed": "299 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMT128G TOSHIBA",
+    "capacity": "128 GB",
+    "firmware": "0105ADLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMT128G TOSHIBA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "0105ADLA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "357 MiB/s",
+        "Maximum read speed": "297 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (38 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kioxia",
+    "model": "KBG30ZMT128G TOSHIBA",
+    "capacity": "128 GB",
+    "firmware": "0107ADLA",
+    "sections": {
+      "General information": {
+        "Trademark": "Kioxia",
+        "Model": "KBG30ZMT128G TOSHIBA",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "0107ADLA",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "432 MiB/s",
+        "Maximum read speed": "428 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "20 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "82°C (179°F)",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "68°C (154°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "brand": "Kaser",
+    "model": "KASER-YF022",
+    "capacity": "16.1 GB",
+    "firmware": "Ver2.M0H",
+    "sections": {
+      "General information": {
+        "Trademark": "Kaser",
+        "Model": "KASER-YF022",
+        "Capacity": "16.1 GB (15 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "Ver2.M0H",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "38 MiB/s",
+        "Maximum read speed": "37 MiB/s",
+        "Minimum average access time": "0.80 msec",
+        "Cache buffer": "1 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "6",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Kaser",
+    "model": "KASER-YF022",
+    "capacity": "16.1 GB",
+    "firmware": "Ver2.X0E",
+    "sections": {
+      "General information": {
+        "Trademark": "Kaser",
+        "Model": "KASER-YF022",
+        "Capacity": "16.1 GB (15 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "Ver2.X0E",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "not supported",
+        "ATA version": "5",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum read speed": "36 MiB/s",
+        "Minimum average access time": "0.60 msec",
+        "Cache buffer": "1 KiB",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "not supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "6",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  }
+]

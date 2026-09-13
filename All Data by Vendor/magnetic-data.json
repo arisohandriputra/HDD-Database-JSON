@@ -1,0 +1,1121 @@
+[
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD4000GSA6472E     0",
+    "capacity": "4 TB",
+    "firmware": "MJAOA5F0",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD4000GSA6472E 0",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MJAOA5F0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "455 MiB/s",
+        "Maximum read speed": "247 MiB/s",
+        "Minimum average access time": "12.45 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD4000GBDS",
+    "capacity": "4 TB",
+    "firmware": "01.01KA2",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD4000GBDS",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "01.01KA2",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "406 MiB/s",
+        "Maximum read speed": "162 MiB/s",
+        "Minimum average access time": "13.33 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD4000GBDS",
+    "capacity": "4 TB",
+    "firmware": "KF06",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD4000GBDS",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "KF06",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "267 MiB/s",
+        "Maximum read speed": "148 MiB/s",
+        "Minimum average access time": "16.68 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "> 508 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD3000GSA6472E",
+    "capacity": "3 TB",
+    "firmware": "00.0NS05",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD3000GSA6472E",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "00.0NS05",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "410 MiB/s",
+        "Maximum read speed": "170 MiB/s",
+        "Minimum average access time": "11.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "374 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD20000-NSDW-RO",
+    "capacity": "2 TB",
+    "firmware": "51.0AB51",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD20000-NSDW-RO",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "51.0AB51",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "213 MiB/s",
+        "Maximum read speed": "120 MiB/s",
+        "Minimum average access time": "16.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "398 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD20000-ALDW-RO",
+    "capacity": "2 TB",
+    "firmware": "01.00A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD20000-ALDW-RO",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "01.00A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "221 MiB/s",
+        "Maximum read speed": "101 MiB/s",
+        "Minimum average access time": "20.96 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "416 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD10000-BSDW-RO",
+    "capacity": "1 TB",
+    "firmware": "05.01D05",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD10000-BSDW-RO",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "05.01D05",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "374 MiB/s",
+        "Maximum read speed": "126 MiB/s",
+        "Minimum average access time": "12.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "200 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "176 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD10000-BLDW-RO",
+    "capacity": "1 TB",
+    "firmware": "05.00K05",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD10000-BLDW-RO",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "05.00K05",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "34 MiB/s",
+        "Maximum read speed": "31 MiB/s",
+        "Minimum average access time": "12.89 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "208 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "61°C (141°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "182 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD07500-NSDW-RO",
+    "capacity": "750.1 GB",
+    "firmware": "80.00A80",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD07500-NSDW-RO",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "80.00A80",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "224 MiB/s",
+        "Maximum read speed": "85 MiB/s",
+        "Minimum average access time": "15.69 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "178 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "156 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD07500-AQDW-RO",
+    "capacity": "750.1 GB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD07500-AQDW-RO",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "01.01A01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "223 MiB/s",
+        "Maximum read speed": "79 MiB/s",
+        "Minimum average access time": "14.40 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "219 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "192 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MDT MD5000KS-00MNB0",
+    "capacity": "500.1 GB",
+    "firmware": "07.02E07",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MDT MD5000KS-00MNB0",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "07.02E07",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "179 MiB/s",
+        "Maximum read speed": "69 MiB/s",
+        "Minimum average access time": "13.60 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "179 minutes",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "72°C (161°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "146 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MDT MD5000AAKS-00A7B0",
+    "capacity": "500.1 GB",
+    "firmware": "01.03B01",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MDT MD5000AAKS-00A7B0",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "01.03B01",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "222 MiB/s",
+        "Maximum read speed": "87 MiB/s",
+        "Minimum average access time": "12.30 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "131 minutes",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "114 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD05000-BQDW-RO",
+    "capacity": "500.1 GB",
+    "firmware": "11.02N11",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD05000-BQDW-RO",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "11.02N11",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "196 MiB/s",
+        "Maximum read speed": "81 MiB/s",
+        "Minimum average access time": "13.40 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "157 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "128 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD04000-BQDW-RO",
+    "capacity": "400 GB",
+    "firmware": "12.01C01",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD04000-BQDW-RO",
+        "Capacity": "400 GB (372.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "12.01C01",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "190 MiB/s",
+        "Maximum read speed": "76 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "126 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "102 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD04000-BQDW-RO",
+    "capacity": "400 GB",
+    "firmware": "12.01C02",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD04000-BQDW-RO",
+        "Capacity": "400 GB (372.6 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "12.01C02",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "172 MiB/s",
+        "Maximum read speed": "72 MiB/s",
+        "Minimum average access time": "13.20 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "129 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "112 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD300GBVS",
+    "capacity": "300 GB",
+    "firmware": "03.00C05",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD300GBVS",
+        "Capacity": "300 GB (279.4 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "03.00C05",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "232 MiB/s",
+        "Maximum read speed": "141 MiB/s",
+        "Minimum average access time": "7.15 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "10000 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "47 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "42 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD300GBVS",
+    "capacity": "300 GB",
+    "firmware": "03.03V01",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD300GBVS",
+        "Capacity": "300 GB (279.4 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "03.03V01",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "246 MiB/s",
+        "Maximum read speed": "116 MiB/s",
+        "Minimum average access time": "7.11 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "10000 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "60 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "48 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MDT MD2500JB-00REA0",
+    "capacity": "250 GB",
+    "firmware": "20.00K20",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MDT MD2500JB-00REA0",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "20.00K20",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "87 MiB/s",
+        "Maximum read speed": "58 MiB/s",
+        "Minimum average access time": "13.50 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "96 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD02500-BQDW-RO",
+    "capacity": "250 GB",
+    "firmware": "05.01D05",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD02500-BQDW-RO",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "05.01D05",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "227 MiB/s",
+        "Maximum read speed": "131 MiB/s",
+        "Minimum average access time": "15.51 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "49 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "38 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MDT MD1600JB-00REA0",
+    "capacity": "160 GB",
+    "firmware": "20.00K20",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MDT MD1600JB-00REA0",
+        "Capacity": "160 GB (149 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "20.00K20",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "88 MiB/s",
+        "Maximum read speed": "60 MiB/s",
+        "Minimum average access time": "13.57 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "60 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "65°C (149°F)",
+        "Maximum temperature": "78°C (172°F)",
+        "Average maximum temperature": "78°C (172°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MD01200-BJBW",
+    "capacity": "120 GB",
+    "firmware": "15.05R15",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MD01200-BJBW",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "5",
+        "Firmware": "15.05R15",
+        "Firmware upgrade": "supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "100 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "12.93 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "59 minutes",
+        "Maximum temperature": "32°C (89°F)",
+        "Average maximum temperature": "26°C (78°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Magnetic-Data",
+    "model": "MDT MD1200JD-00HBB0",
+    "capacity": "120 GB",
+    "firmware": "08.02D08",
+    "sections": {
+      "General information": {
+        "Trademark": "Magnetic Data",
+        "Model": "MDT MD1200JD-00HBB0",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "08.02D08",
+        "Firmware upgrade": "supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "205 MiB/s",
+        "Maximum read speed": "76 MiB/s",
+        "Minimum average access time": "13.95 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "54 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

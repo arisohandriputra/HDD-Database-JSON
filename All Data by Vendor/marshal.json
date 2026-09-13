@@ -1,0 +1,587 @@
+[
+  {
+    "brand": "Marshal",
+    "model": "FSLC MAL34000SA-T72",
+    "capacity": "4 TB",
+    "firmware": "0601",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "FSLC MAL34000SA-T72",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "0601",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "421 MiB/s",
+        "Maximum read speed": "241 MiB/s",
+        "Minimum average access time": "13.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "32°C (89°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "378 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "FSLC MAL34000SA-T54",
+    "capacity": "4 TB",
+    "firmware": "KQ0C0L",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "FSLC MAL34000SA-T54",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "KQ0C0L",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "266 MiB/s",
+        "Maximum read speed": "206 MiB/s",
+        "Minimum average access time": "8.72 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "640 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "GENERIC S200 HARD DRIVE",
+    "capacity": "2 TB",
+    "firmware": "FP2A",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "GENERIC S200 HARD DRIVE",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "FP2A",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "456 MiB/s",
+        "Maximum read speed": "181 MiB/s",
+        "Minimum average access time": "12.2 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "242 minutes",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "262 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "Generic S100 Hard drive",
+    "capacity": "1 TB",
+    "firmware": "MS2OA7M0",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "Generic S100 Hard drive",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MS2OA7M0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "447 MiB/s",
+        "Maximum read speed": "192 MiB/s",
+        "Minimum average access time": "35.57 msec",
+        "Cache buffer": "23 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "127 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "168 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "Generic L100 Hard drive",
+    "capacity": "1 TB",
+    "firmware": "MU2OA7M0",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "Generic L100 Hard drive",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MU2OA7M0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "392 MiB/s",
+        "Maximum read speed": "169 MiB/s",
+        "Minimum average access time": "19.63 msec",
+        "Cache buffer": "23 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5700 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "155 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "204 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "FSLC MAL21000SA-T54",
+    "capacity": "1 TB",
+    "firmware": "AX0K1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "FSLC MAL21000SA-T54",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "AX0K1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "215 MiB/s",
+        "Maximum read speed": "117 MiB/s",
+        "Minimum average access time": "17.57 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "236 minutes",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "220 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "MARSHAL MAL2500SA-T72L",
+    "capacity": "500.1 GB",
+    "firmware": "AV001A",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "MARSHAL MAL2500SA-T72L",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "AV001A",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "299 MiB/s",
+        "Maximum read speed": "142 MiB/s",
+        "Minimum average access time": "15.28 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "100 minutes",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "94 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "MARSHAL MAL2500SA-T54",
+    "capacity": "500.1 GB",
+    "firmware": "AX0U1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "MARSHAL MAL2500SA-T54",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "AX0U1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "216 MiB/s",
+        "Maximum read speed": "113 MiB/s",
+        "Minimum average access time": "17.43 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "123 minutes",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "114 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "Generic S050 Hard drive",
+    "capacity": "500.1 GB",
+    "firmware": "MS1OA7M0",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "Generic S050 Hard drive",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "MS1OA7M0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "43 MiB/s",
+        "Maximum read speed": "41 MiB/s",
+        "Minimum average access time": "18.94 msec",
+        "Cache buffer": "23 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "61 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "80 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "MARSHAL MAL2320SA-T54",
+    "capacity": "320 GB",
+    "firmware": "GJ003A",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "MARSHAL MAL2320SA-T54",
+        "Capacity": "320 GB (298 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "GJ003A",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "33 MiB/s",
+        "Maximum read speed": "27 MiB/s",
+        "Minimum average access time": "17.52 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "97 minutes",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "94 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Marshal",
+    "model": "MARSHAL MAL2250SA-T72",
+    "capacity": "250 GB",
+    "firmware": "MH000D",
+    "sections": {
+      "General information": {
+        "Trademark": "Marshal",
+        "Model": "MARSHAL MAL2250SA-T72",
+        "Capacity": "250 GB (232.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "MH000D",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "233 MiB/s",
+        "Maximum read speed": "103 MiB/s",
+        "Minimum average access time": "22.16 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "63 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "62 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

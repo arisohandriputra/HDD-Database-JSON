@@ -1,0 +1,48 @@
+[
+  {
+    "brand": "LaCie",
+    "model": "LaCie   Rugged USB3-FW",
+    "capacity": "1 TB",
+    "firmware": "31101081",
+    "sections": {
+      "General information": {
+        "Trademark": "LaCie",
+        "Model": "LaCie Rugged USB3-FW",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "31101081",
+        "Firmware upgrade": "not supported",
+        "ATA version": "6",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "205 MiB/s",
+        "Maximum read speed": "104 MiB/s",
+        "Minimum average access time": "16.84 msec",
+        "Cache buffer": "14.7 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "not supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "220 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

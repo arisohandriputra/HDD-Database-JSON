@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "MemoRight",
+    "model": "MRSAJAL120GZM25C00",
+    "capacity": "120 GB",
+    "firmware": "MRV1.4.2",
+    "sections": {
+      "General information": {
+        "Trademark": "MemoRight",
+        "Model": "MRSAJAL120GZM25C00",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "< 1.8",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "JMicron66x",
+        "Firmware": "MRV1.4.2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "224 MiB/s",
+        "Maximum read speed": "214 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "MemoRight",
+    "model": "MR25.2-S064G",
+    "capacity": "64.4 GB",
+    "firmware": "B8H11D1D",
+    "sections": {
+      "General information": {
+        "Trademark": "MemoRight",
+        "Model": "MR25.2-S064G",
+        "Capacity": "64.4 GB (59.9 GiB)",
+        "Type": "HDD",
+        "Interface": "PATA",
+        "Maximum Ultra DMA mode": "6",
+        "Firmware": "B8H11D1D",
+        "Firmware upgrade": "not supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "133 MB/s",
+        "Maximum buffered read speed": "129 MiB/s",
+        "Maximum read speed": "116 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Tagged command queuing (TCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "60 minutes",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "16 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported"
+      }
+    }
+  }
+]
