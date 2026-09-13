@@ -1,0 +1,401 @@
+[
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "T200818",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "T200818",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "288 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "2.001.00",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "2.001.00",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "280 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "90°C (194°F)",
+        "Average maximum temperature": "90°C (194°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "S0424A0",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S0424A0",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "474 MiB/s",
+        "Maximum read speed": "341 MiB/s",
+        "Minimum average access time": "0.49 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "S1211A0",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S1211A0",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "214 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "T0722A0",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0722A0",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "242 MiB/s",
+        "Maximum read speed": "234 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "T190103",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "T190103",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "331 MiB/s",
+        "Minimum average access time": "0.29 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "30°C (86°F)",
+        "Average maximum temperature": "30°C (86°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed S540",
+    "capacity": "960.1 GB",
+    "firmware": "T190611",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed S540",
+        "Capacity": "960.1 GB (894.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "T190611",
+        "Alternative firmwares": "6",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "40 MiB/s",
+        "Maximum read speed": "35 MiB/s",
+        "Minimum average access time": "0.44 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "30°C (86°F)",
+        "Average maximum temperature": "30°C (86°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SuperSSpeed",
+    "model": "SuperSSpeed 32GB SSD",
+    "capacity": "32 GB",
+    "firmware": "120202",
+    "sections": {
+      "General information": {
+        "Trademark": "SuperSSpeed",
+        "Model": "SuperSSpeed 32GB SSD",
+        "Capacity": "32 GB (29.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "120202",
+        "Firmware upgrade": "not supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "57 MiB/s",
+        "Maximum read speed": "52 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

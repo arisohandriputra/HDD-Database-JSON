@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "SNR",
+    "model": "SNR-ML240M",
+    "capacity": "240 GB",
+    "firmware": "R0420B",
+    "sections": {
+      "General information": {
+        "Trademark": "SNR",
+        "Model": "SNR-ML240M",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2.1",
+        "Firmware": "R0420B",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "840 MiB/s",
+        "Maximum read speed": "812 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]

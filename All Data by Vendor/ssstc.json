@@ -1,0 +1,1571 @@
+[
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL5-8D1024",
+    "capacity": "1 TB",
+    "firmware": "EXA2102",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL5-8D1024",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EXA2102",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "378 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D1024",
+    "capacity": "1 TB",
+    "firmware": "EV22002",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D1024",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV22002",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2324 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D1024",
+    "capacity": "1 TB",
+    "firmware": "EV22102",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D1024",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV22102",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2283 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CA6-8D1024",
+    "capacity": "1 TB",
+    "firmware": "ERA3401",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CA6-8D1024",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ERA3401",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2418 MiB/s",
+        "Maximum read speed": "2150 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "8 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL5-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "EX92101",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL5-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EX92101",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3012 MiB/s",
+        "Maximum read speed": "2629 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL5-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "EX92102",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL5-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EX92102",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "364 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "32°C (89°F)",
+        "Average maximum temperature": "32°C (89°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "EV22102",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV22102",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2512 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "EV22001",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV22001",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2056 MiB/s",
+        "Maximum read speed": "1043 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "EV22101",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV22101",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2634 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "69°C (156°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "E997701",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "E997701",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1704 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "67°C (152°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CA5-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "CQ27701",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CA5-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "CQ27701",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2063 MiB/s",
+        "Maximum read speed": "1553 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CL1-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "E990903",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CL1-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "E990903",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1036 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CL1-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "E990904",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CL1-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "E990904",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2019 MiB/s",
+        "Maximum read speed": "1571 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CA5-8D512",
+    "capacity": "512.1 GB",
+    "firmware": "CQ20904",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CA5-8D512",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "CQ20904",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "445 MiB/s",
+        "Maximum read speed": "375 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "4 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC  XA1-31512",
+    "capacity": "450.9 GB",
+    "firmware": "04.00.00",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC XA1-31512",
+        "Capacity": "450.9 GB (420 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "04.00.00",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "501 MiB/s",
+        "Maximum read speed": "216 MiB/s",
+        "Minimum average access time": "0.68 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-8D256-Q79",
+    "capacity": "256 GB",
+    "firmware": "5V879",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-8D256-Q79",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "5V879",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2329 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-4D256-Q79",
+    "capacity": "256 GB",
+    "firmware": "5U879",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-4D256-Q79",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "5U879",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1650 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "74°C (165°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL4-4D256-Q62",
+    "capacity": "256 GB",
+    "firmware": "1U862",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL4-4D256-Q62",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1U862",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1758 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-8D256-HP",
+    "capacity": "256 GB",
+    "firmware": "L182",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-8D256-HP",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "L182",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1959 MiB/s",
+        "Maximum read speed": "1882 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-8D256-HP",
+    "capacity": "256 GB",
+    "firmware": "L183",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-8D256-HP",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "L183",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2019 MiB/s",
+        "Maximum read speed": "1780 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-8D256",
+    "capacity": "256 GB",
+    "firmware": "CT22005",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-8D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "CT22005",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1379 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D256-D22",
+    "capacity": "256 GB",
+    "firmware": "2S222",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D256-D22",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2S222",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "552 MiB/s",
+        "Maximum read speed": "385 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D256",
+    "capacity": "256 GB",
+    "firmware": "1S262",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1S262",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1195 MiB/s",
+        "Maximum read speed": "1165 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D256",
+    "capacity": "256 GB",
+    "firmware": "AS262",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "AS262",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2101 MiB/s",
+        "Maximum read speed": "1897 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D256",
+    "capacity": "256 GB",
+    "firmware": "BS262",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "BS262",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1778 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CL4-8D256",
+    "capacity": "256 GB",
+    "firmware": "EV80902",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CL4-8D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "EV80902",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1931 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CL1-8D256",
+    "capacity": "256 GB",
+    "firmware": "CT20903",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CL1-8D256",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "CT20903",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1852 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "CL1-3D256-Q11 NVMe SSSTC 256GB",
+    "capacity": "256 GB",
+    "firmware": "22301116",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "CL1-3D256-Q11 NVMe SSSTC 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "22301116",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "2009 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "CL1-3D256-Q11 NVMe SSSTC 256GB",
+    "capacity": "256 GB",
+    "firmware": "22301118",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "CL1-3D256-Q11 NVMe SSSTC 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "22301118",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1944 MiB/s",
+        "Maximum read speed": "1476 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CV8-8E256-HP",
+    "capacity": "256 GB",
+    "firmware": "V881",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CV8-8E256-HP",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Controller": "Silicon Motion",
+        "Firmware": "V881",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "420 MiB/s",
+        "Maximum read speed": "303 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "10 minutes",
+        "Instant data destruction": "supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D128",
+    "capacity": "128 GB",
+    "firmware": "1S262",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D128",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1S262",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1197 MiB/s",
+        "Maximum read speed": "1162 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CL1-4D128",
+    "capacity": "128 GB",
+    "firmware": "CS262",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CL1-4D128",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "CS262",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "714 MiB/s",
+        "Maximum read speed": "592 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "NVMe CL1-8D128",
+    "capacity": "128 GB",
+    "firmware": "1.01",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "NVMe CL1-8D128",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1.01",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "650 MiB/s",
+        "Maximum read speed": "518 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "84°C (183°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "CL1-3D128-Q11 NVMe SSSTC 128GB",
+    "capacity": "128 GB",
+    "firmware": "22301116",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "CL1-3D128-Q11 NVMe SSSTC 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "22301116",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "2192 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "2 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CVB-8D128-HP",
+    "capacity": "128 GB",
+    "firmware": "VB81",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CVB-8D128-HP",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Controller": "Silicon Motion",
+        "Firmware": "VB81",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "428 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "5 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "69°C (156°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SSSTC CV8-8E128-HP",
+    "capacity": "128 GB",
+    "firmware": "V881",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SSSTC CV8-8E128-HP",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Controller": "Silicon Motion",
+        "Firmware": "V881",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "391 MiB/s",
+        "Maximum read speed": "374 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "5 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SATA CVB-CD128",
+    "capacity": "128 GB",
+    "firmware": "1.01",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SATA CVB-CD128",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "1.01",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "398 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "SSSTC",
+    "model": "SATA CVB-CD128",
+    "capacity": "128 GB",
+    "firmware": "E170901",
+    "sections": {
+      "General information": {
+        "Trademark": "SSSTC",
+        "Model": "SATA CVB-CD128",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "E170901",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "291 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

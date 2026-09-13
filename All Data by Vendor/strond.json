@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Strond",
+    "model": "Strond",
+    "capacity": "1 TB",
+    "firmware": "HPS2818D",
+    "sections": {
+      "General information": {
+        "Trademark": "Strond",
+        "Model": "Strond",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HPS2818D",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "209 MiB/s",
+        "Minimum average access time": "1.0 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

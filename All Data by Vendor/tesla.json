@@ -1,0 +1,607 @@
+[
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-2TBS3",
+    "capacity": "2 TB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-2TBS3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "451 MiB/s",
+        "Maximum read speed": "374 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-2TBS3",
+    "capacity": "2 TB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-2TBS3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "29 MiB/s",
+        "Maximum read speed": "4 MiB/s",
+        "Minimum average access time": "26.35 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-1TBS3",
+    "capacity": "1 TB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-1TBS3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "329 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-1TBS3",
+    "capacity": "1 TB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-1TBS3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "225 MiB/s",
+        "Maximum read speed": "215 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-512GS3",
+    "capacity": "512.1 GB",
+    "firmware": "V0419A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-512GS3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0419A0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "242 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-512GS3",
+    "capacity": "512.1 GB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-512GS3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "238 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-512GS3",
+    "capacity": "512.1 GB",
+    "firmware": "W0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-512GS3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0220A0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "449 MiB/s",
+        "Maximum read speed": "398 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-512GS3",
+    "capacity": "512.1 GB",
+    "firmware": "W0303B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-512GS3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0303B0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "461 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-512GS3",
+    "capacity": "512.1 GB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-512GS3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "471 MiB/s",
+        "Maximum read speed": "464 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-256GS3",
+    "capacity": "256 GB",
+    "firmware": "V1027A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-256GS3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V1027A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "240 MiB/s",
+        "Maximum read speed": "237 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-240GS3",
+    "capacity": "240 GB",
+    "firmware": "V0414A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-240GS3",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0414A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "244 MiB/s",
+        "Maximum read speed": "242 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Tesla",
+    "model": "SSDTSLA-128GS3",
+    "capacity": "128 GB",
+    "firmware": "HAFEB2.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Tesla",
+        "Model": "SSDTSLA-128GS3",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "HAFEB2.1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "237 MiB/s",
+        "Maximum read speed": "233 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

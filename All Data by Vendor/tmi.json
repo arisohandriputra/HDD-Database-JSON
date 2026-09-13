@@ -1,0 +1,202 @@
+[
+  {
+    "brand": "TMI",
+    "model": "TMI 512GB SATA CRMP.467512.001-01",
+    "capacity": "512.1 GB",
+    "firmware": "SFMB004K",
+    "sections": {
+      "General information": {
+        "Trademark": "TMI",
+        "Model": "TMI 512GB SATA CRMP.467512.001-01",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "JMicron66x",
+        "Firmware": "SFMB004K",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "410 MiB/s",
+        "Maximum read speed": "311 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "6 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "TMI",
+    "model": "TMI 512GB SATA CRMP.467512.001-01",
+    "capacity": "512.1 GB",
+    "firmware": "SFMD0010",
+    "sections": {
+      "General information": {
+        "Trademark": "TMI",
+        "Model": "TMI 512GB SATA CRMP.467512.001-01",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "JMicron66x",
+        "Firmware": "SFMD0010",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "400 MiB/s",
+        "Maximum read speed": "321 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "TMI",
+    "model": "TMI 256GB SATA CRMP.467512.001",
+    "capacity": "256 GB",
+    "firmware": "SFMB004K",
+    "sections": {
+      "General information": {
+        "Trademark": "TMI",
+        "Model": "TMI 256GB SATA CRMP.467512.001",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "JMicron66x",
+        "Firmware": "SFMB004K",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "436 MiB/s",
+        "Maximum read speed": "413 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "6 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "TMI",
+    "model": "TMI 256GB SATA CRMP.467512.001",
+    "capacity": "256 GB",
+    "firmware": "SFMD0010",
+    "sections": {
+      "General information": {
+        "Trademark": "TMI",
+        "Model": "TMI 256GB SATA CRMP.467512.001",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "JMicron66x",
+        "Firmware": "SFMD0010",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "419 MiB/s",
+        "Maximum read speed": "310 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "14",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

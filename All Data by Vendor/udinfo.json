@@ -1,0 +1,101 @@
+[
+  {
+    "brand": "Udinfo",
+    "model": "UDinfo HF3 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "SBFMP1.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Udinfo",
+        "Model": "UDinfo HF3 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMP1.3",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "486 MiB/s",
+        "Maximum read speed": "257 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Udinfo",
+    "model": "UDinfo HF3 128GB",
+    "capacity": "128 GB",
+    "firmware": "SAFM01.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Udinfo",
+        "Model": "UDinfo HF3 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Phison",
+        "Firmware": "SAFM01.5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "188 MiB/s",
+        "Maximum read speed": "135 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "9",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "2 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "brand": "TrekStor",
+    "model": "TrekStor DataStation 8",
+    "capacity": "160 GB",
+    "firmware": "P22OABEA",
+    "sections": {
+      "General information": {
+        "Trademark": "TrekStor",
+        "Model": "TrekStor DataStation 8",
+        "Capacity": "160 GB (149 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "Firmware": "P22OABEA",
+        "Firmware upgrade": "supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "166 MiB/s",
+        "Maximum read speed": "74 MiB/s",
+        "Minimum average access time": "13.70 msec",
+        "Cache buffer": "7.2 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "64 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

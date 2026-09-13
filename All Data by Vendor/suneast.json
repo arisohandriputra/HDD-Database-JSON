@@ -1,0 +1,247 @@
+[
+  {
+    "brand": "Suneast",
+    "model": "SUNEAST SE800 SSD 2T",
+    "capacity": "2 TB",
+    "firmware": "SN10427",
+    "sections": {
+      "General information": {
+        "Trademark": "Suneast",
+        "Model": "SUNEAST SE800 SSD 2T",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "SN10427",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "34 MiB/s",
+        "Maximum read speed": "28 MiB/s",
+        "Minimum average access time": "0.56 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "26",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Suneast",
+    "model": "SUNEAST SE900 SSD 1024GB",
+    "capacity": "1 TB",
+    "firmware": "030fAA20",
+    "sections": {
+      "General information": {
+        "Trademark": "Suneast",
+        "Model": "SUNEAST SE900 SSD 1024GB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "030fAA20",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "466 MiB/s",
+        "Maximum read speed": "450 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "101°C (213°F)",
+        "Average maximum temperature": "83°C (181°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Suneast",
+    "model": "SE801 1TB",
+    "capacity": "1 TB",
+    "firmware": "SN15261",
+    "sections": {
+      "General information": {
+        "Trademark": "Suneast",
+        "Model": "SE801 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "SN15261",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "421 MiB/s",
+        "Maximum read speed": "365 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Suneast",
+    "model": "SUNEAST SE800 NGFF 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "030fAA20",
+    "sections": {
+      "General information": {
+        "Trademark": "Suneast",
+        "Model": "SUNEAST SE800 NGFF 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "030fAA20",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "451 MiB/s",
+        "Maximum read speed": "259 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "75°C (167°F)",
+        "Average maximum temperature": "75°C (167°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Suneast",
+    "model": "SE801 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "SN15926",
+    "sections": {
+      "General information": {
+        "Trademark": "Suneast",
+        "Model": "SE801 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "SN15926",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "448 MiB/s",
+        "Maximum read speed": "434 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

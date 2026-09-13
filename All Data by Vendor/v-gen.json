@@ -1,0 +1,1151 @@
+[
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN03MX24MS512HYNVME 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "SN16591",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN03MX24MS512HYNVME 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "SN16591",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "887 MiB/s",
+        "Maximum read speed": "854 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN12SM22AR512SDKM2 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "V0823A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN12SM22AR512SDKM2 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0823A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "432 MiB/s",
+        "Maximum read speed": "333 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN12SM22AR512SDK 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "V0823A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN12SM22AR512SDK 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0823A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "467 MiB/s",
+        "Maximum read speed": "427 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN10HG20FS512HY",
+    "capacity": "512.1 GB",
+    "firmware": "PAFEC2.0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN10HG20FS512HY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "PAFEC2.0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "482 MiB/s",
+        "Maximum read speed": "446 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN08SM24HG512HY512GB",
+    "capacity": "512.1 GB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN08SM24HG512HY512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "223 MiB/s",
+        "Maximum read speed": "179 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN08SM20AR512SDK 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "T0311A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN08SM20AR512SDK 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0311A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "346 MiB/s",
+        "Minimum average access time": "1.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN05MA23SCY256YMNV",
+    "capacity": "256 GB",
+    "firmware": "H220902a",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN05MA23SCY256YMNV",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H220902a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1195 MiB/s",
+        "Maximum read speed": "470 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN11SM22AR256HY 256GB",
+    "capacity": "256 GB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN11SM22AR256HY 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "473 MiB/s",
+        "Maximum read speed": "444 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN10AS20AR256SDK 256GB",
+    "capacity": "256 GB",
+    "firmware": "0200Sf10",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN10AS20AR256SDK 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "0200Sf10",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "129 MiB/s",
+        "Minimum average access time": "0.36 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN08SM23AR256SDK 256GB",
+    "capacity": "256 GB",
+    "firmware": "V1027A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN08SM23AR256SDK 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V1027A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "383 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN07SM22AR256SDK 256GB",
+    "capacity": "256 GB",
+    "firmware": "V0609B0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN07SM22AR256SDK 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0609B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "458 MiB/s",
+        "Maximum read speed": "355 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN07SM20AR256SDK 256GB",
+    "capacity": "256 GB",
+    "firmware": "S1127B0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN07SM20AR256SDK 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S1127B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "247 MiB/s",
+        "Maximum read speed": "206 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN01SM22FS256HY",
+    "capacity": "256 GB",
+    "firmware": "U0628A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN01SM22FS256HY",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U0628A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "376 MiB/s",
+        "Maximum read speed": "351 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN01SM21AR256SDK 256GB",
+    "capacity": "256 GB",
+    "firmware": "T0910A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN01SM21AR256SDK 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0910A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "330 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN12AS19AR240SDK 240GB",
+    "capacity": "240 GB",
+    "firmware": "0200Sc10",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN12AS19AR240SDK 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "0200Sc10",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "203 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN11SM19AR240SDK 240GB",
+    "capacity": "240 GB",
+    "firmware": "S0807A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN11SM19AR240SDK 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S0807A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "253 MiB/s",
+        "Maximum read speed": "240 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN11SM19FS128ITNV",
+    "capacity": "128 GB",
+    "firmware": "S0318A0G",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN11SM19FS128ITNV",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "S0318A0G",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1793 MiB/s",
+        "Maximum read speed": "1516 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN03MA22SCY128YMNV",
+    "capacity": "128 GB",
+    "firmware": "H220303a",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN03MA22SCY128YMNV",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H220303a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1276 MiB/s",
+        "Maximum read speed": "1176 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (8 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN09SM22AR128SDK 128GB",
+    "capacity": "128 GB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN09SM22AR128SDK 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "363 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN08SM22AR128SDK 128GB",
+    "capacity": "128 GB",
+    "firmware": "V0718B0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN08SM22AR128SDK 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0718B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "169 MiB/s",
+        "Minimum average access time": "0.34 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN07SM20AR128SDK 128GB",
+    "capacity": "128 GB",
+    "firmware": "S0413A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN07SM20AR128SDK 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S0413A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "443 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN05SM23AR128HY 128GB",
+    "capacity": "128 GB",
+    "firmware": "W0509A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN05SM23AR128HY 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0509A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "459 MiB/s",
+        "Maximum read speed": "403 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN01SM21AR128SDK 128GB",
+    "capacity": "128 GB",
+    "firmware": "S0413A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN01SM21AR128SDK 128GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S0413A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "451 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "V-GeN",
+    "model": "V-GEN07SM22EG120GBSS",
+    "capacity": "120 GB",
+    "firmware": "R0724A0",
+    "sections": {
+      "General information": {
+        "Trademark": "V-GeN",
+        "Model": "V-GEN07SM22EG120GBSS",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "R0724A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "425 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

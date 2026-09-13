@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Wael",
+    "model": "WAEL 512 G",
+    "capacity": "512.1 GB",
+    "firmware": "HPT3618B",
+    "sections": {
+      "General information": {
+        "Trademark": "Wael",
+        "Model": "WAEL 512 G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HPT3618B",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "325 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

@@ -1,0 +1,792 @@
+[
+  {
+    "brand": "Water-Panther",
+    "model": "OOS22000G",
+    "capacity": "22 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS22000G",
+        "Capacity": "22 TB (20 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "482 MiB/s",
+        "Maximum read speed": "274 MiB/s",
+        "Minimum average access time": "12.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "1834 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS20000G",
+    "capacity": "20 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS20000G",
+        "Capacity": "20 TB (18.1 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "442 MiB/s",
+        "Maximum read speed": "272 MiB/s",
+        "Minimum average access time": "11.95 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "1724 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS16000G",
+    "capacity": "16 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS16000G",
+        "Capacity": "16 TB (14.5 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "457 MiB/s",
+        "Maximum read speed": "266 MiB/s",
+        "Minimum average access time": "10.98 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "1728 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS14000G",
+    "capacity": "14 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS14000G",
+        "Capacity": "14 TB (12.7 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "378 MiB/s",
+        "Maximum read speed": "259 MiB/s",
+        "Minimum average access time": "11.82 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "1302 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS12000G",
+    "capacity": "12 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS12000G",
+        "Capacity": "12 TB (10.9 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "474 MiB/s",
+        "Maximum read speed": "285 MiB/s",
+        "Minimum average access time": "11.73 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "1176 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS10000G",
+    "capacity": "10 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS10000G",
+        "Capacity": "10 TB (9 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "472 MiB/s",
+        "Maximum read speed": "268 MiB/s",
+        "Minimum average access time": "11.64 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "938 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS8000G",
+    "capacity": "8 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS8000G",
+        "Capacity": "8 TB (7.2 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "344 MiB/s",
+        "Maximum read speed": "244 MiB/s",
+        "Minimum average access time": "11.97 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "742 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS6000G",
+    "capacity": "6 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS6000G",
+        "Capacity": "6 TB (5.4 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "319 MiB/s",
+        "Maximum read speed": "221 MiB/s",
+        "Minimum average access time": "12.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "576 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS4000G",
+    "capacity": "4 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS4000G",
+        "Capacity": "4 TB (3.6 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "471 MiB/s",
+        "Maximum read speed": "245 MiB/s",
+        "Minimum average access time": "11.85 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "504 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS3000G",
+    "capacity": "3 TB",
+    "firmware": "0001OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS3000G",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "0001OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "460 MiB/s",
+        "Maximum read speed": "180 MiB/s",
+        "Minimum average access time": "16.73 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5980 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "382 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS2000G128M",
+    "capacity": "2 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS2000G128M",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "41 MiB/s",
+        "Maximum read speed": "39 MiB/s",
+        "Minimum average access time": "17.97 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "334 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS2000G",
+    "capacity": "2 TB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS2000G",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "OOS1",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "471 MiB/s",
+        "Maximum read speed": "233 MiB/s",
+        "Minimum average access time": "11.98 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "253 minutes",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "242 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS2000G",
+    "capacity": "2 TB",
+    "firmware": "0001OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS2000G",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "0001OOS1",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "290 MiB/s",
+        "Maximum read speed": "174 MiB/s",
+        "Minimum average access time": "20.97 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5425 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "25",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "249 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "250 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS2000G",
+    "capacity": "2 TB",
+    "firmware": "ZZZZFFFF",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS2000G",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "ZZZZFFFF",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "475 MiB/s",
+        "Maximum read speed": "197 MiB/s",
+        "Minimum average access time": "14.63 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "258 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Water-Panther",
+    "model": "OOS500G",
+    "capacity": "500.1 GB",
+    "firmware": "OOS1",
+    "sections": {
+      "General information": {
+        "Trademark": "Water Panther",
+        "Model": "OOS500G",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "OOS1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "362 MiB/s",
+        "Maximum read speed": "205 MiB/s",
+        "Minimum average access time": "14.73 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "108 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "61°C (141°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "92 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

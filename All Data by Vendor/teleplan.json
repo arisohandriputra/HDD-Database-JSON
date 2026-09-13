@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Teleplan",
+    "model": "Teleplan TP1000G",
+    "capacity": "1 TB",
+    "firmware": "AX002D",
+    "sections": {
+      "General information": {
+        "Trademark": "Teleplan",
+        "Model": "Teleplan TP1000G",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "AX002D",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "229 MiB/s",
+        "Maximum read speed": "115 MiB/s",
+        "Minimum average access time": "17.53 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "238 minutes",
+        "Critical maximum temperature": "60°C (140°F)",
+        "Recommended maximum temperature": "55°C (131°F)",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "222 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

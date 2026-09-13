@@ -1,0 +1,402 @@
+[
+  {
+    "brand": "Solid",
+    "model": "SSD0480S00",
+    "capacity": "480.1 GB",
+    "firmware": "H190115",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "SSD0480S00",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H190115",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "441 MiB/s",
+        "Maximum read speed": "305 MiB/s",
+        "Minimum average access time": "0.24 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "15",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "Solid",
+    "capacity": "256 GB",
+    "firmware": "T0605A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "Solid",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0605A0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "431 MiB/s",
+        "Maximum read speed": "365 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "Solid",
+    "capacity": "256 GB",
+    "firmware": "S1128B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "Solid",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S1128B0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "337 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "Solid",
+    "capacity": "256 GB",
+    "firmware": "S1211A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "Solid",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S1211A0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "200 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "Solid",
+    "capacity": "256 GB",
+    "firmware": "T0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "Solid",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0220A0",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "467 MiB/s",
+        "Maximum read speed": "377 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "SSD0256S00",
+    "capacity": "256 GB",
+    "firmware": "T0929A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "SSD0256S00",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0929A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "479 MiB/s",
+        "Maximum read speed": "427 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "SSD0256S00",
+    "capacity": "256 GB",
+    "firmware": "T1125A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "SSD0256S00",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T1125A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "266 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solid",
+    "model": "SSD0240S00",
+    "capacity": "240 GB",
+    "firmware": "T0707B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Solid",
+        "Model": "SSD0240S00",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0707B0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "363 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

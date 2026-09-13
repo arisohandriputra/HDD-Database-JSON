@@ -1,0 +1,325 @@
+[
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFKNU020TZ",
+    "capacity": "2 TB",
+    "firmware": "002C",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFKNU020TZ",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "002C",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "6873 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "77°C (170°F)",
+        "Maximum temperature": "28°C (82°F)",
+        "Average maximum temperature": "28°C (82°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFKNU010TZ",
+    "capacity": "1 TB",
+    "firmware": "001C",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFKNU010TZ",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "001C",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2860 MiB/s",
+        "Maximum read speed": "2445 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "77°C (170°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFKNU512GZH",
+    "capacity": "512.1 GB",
+    "firmware": "HPS3",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFKNU512GZH",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HPS3",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2790 MiB/s",
+        "Maximum read speed": "2256 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "75 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFKNU512GZH",
+    "capacity": "512.1 GB",
+    "firmware": "HPS4",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFKNU512GZH",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "HPS4",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1232 MiB/s",
+        "Maximum read speed": "1104 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "75 minutes",
+        "Critical maximum temperature": "88°C (190°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "28°C (82°F)",
+        "Average maximum temperature": "28°C (82°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFKNU512GZ",
+    "capacity": "512.1 GB",
+    "firmware": "002C",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFKNU512GZ",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "002C",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3064 MiB/s",
+        "Maximum read speed": "2516 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "80°C (176°F)",
+        "Recommended maximum temperature": "77°C (170°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "SOLIDIGM SSDPFINW512GZL",
+    "capacity": "512.1 GB",
+    "firmware": "C02C",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "SOLIDIGM SSDPFINW512GZL",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "C02C",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2962 MiB/s",
+        "Maximum read speed": "2582 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "P41PL NVMe SOLIDIGM 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "11117004",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "P41PL NVMe SOLIDIGM 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11117004",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1891 MiB/s",
+        "Maximum read speed": "1462 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Solidigm",
+    "model": "P41PL NVMe SOLIDIGM 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "11117005",
+    "sections": {
+      "General information": {
+        "Trademark": "Solidigm",
+        "Model": "P41PL NVMe SOLIDIGM 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "11117005",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2087 MiB/s",
+        "Maximum read speed": "1688 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (78 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "87°C (188°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]

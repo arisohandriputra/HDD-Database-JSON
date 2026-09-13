@@ -1,0 +1,482 @@
+[
+  {
+    "brand": "Target",
+    "model": "TARGET-TS10-4TB",
+    "capacity": "4 TB",
+    "firmware": "VE0R6361",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET-TS10-4TB",
+        "Capacity": "4 TB (3.7 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Realtek",
+        "Firmware": "VE0R6361",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "126 MiB/s",
+        "Minimum average access time": "0.41 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 1TB",
+    "capacity": "1 TB",
+    "firmware": "HP3C09B3",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP3C09B3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "378 MiB/s",
+        "Minimum average access time": "0.31 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "32 minutes",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TSP20 512G",
+    "capacity": "512.1 GB",
+    "firmware": "H250512a",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TSP20 512G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H250512a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1566 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "U1001A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U1001A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "412 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS20 256G",
+    "capacity": "256 GB",
+    "firmware": "ZD0R3G5A",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS20 256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Realtek",
+        "Firmware": "ZD0R3G5A",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "219 MiB/s",
+        "Minimum average access time": "0.31 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 256G",
+    "capacity": "256 GB",
+    "firmware": "HC3417A2",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HC3417A2",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "392 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 256G",
+    "capacity": "256 GB",
+    "firmware": "HP2818E3",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP2818E3",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "244 MiB/s",
+        "Minimum average access time": "0.56 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 256G",
+    "capacity": "256 GB",
+    "firmware": "HP3C09A5",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP3C09A5",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "219 MiB/s",
+        "Maximum read speed": "215 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 256G",
+    "capacity": "256 GB",
+    "firmware": "HT3C09B7",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HT3C09B7",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "183 MiB/s",
+        "Maximum read speed": "163 MiB/s",
+        "Minimum average access time": "0.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Target",
+    "model": "TARGET TS10 128G",
+    "capacity": "128 GB",
+    "firmware": "HT3C09BA",
+    "sections": {
+      "General information": {
+        "Trademark": "Target",
+        "Model": "TARGET TS10 128G",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HT3C09BA",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "139 MiB/s",
+        "Maximum read speed": "118 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "4 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

@@ -1,0 +1,1013 @@
+[
+  {
+    "brand": "Super-Talent",
+    "model": "FTM1TN325H",
+    "capacity": "1 TB",
+    "firmware": "T0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM1TN325H",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0220A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "455 MiB/s",
+        "Minimum average access time": "1.99 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT512I1-2YAMCG2",
+    "capacity": "512.1 GB",
+    "firmware": "060gAA10",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT512I1-2YAMCG2",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "060gAA10",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "437 MiB/s",
+        "Maximum read speed": "337 MiB/s",
+        "Minimum average access time": "0.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FNX480MORM",
+    "capacity": "480.1 GB",
+    "firmware": "02000008",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FNX480MORM",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "02000008",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "400 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "20",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM56GX25H",
+    "capacity": "256 GB",
+    "firmware": "1819",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM56GX25H",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "1819",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "129 MiB/s",
+        "Maximum read speed": "123 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT256I1-2YAMCG2",
+    "capacity": "256 GB",
+    "firmware": "HS14752",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT256I1-2YAMCG2",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "HS14752",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "210 MiB/s",
+        "Minimum average access time": "0.34 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM56N325H",
+    "capacity": "256 GB",
+    "firmware": "T0724A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM56N325H",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0724A0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "451 MiB/s",
+        "Maximum read speed": "443 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM56N325H",
+    "capacity": "256 GB",
+    "firmware": "S1128B0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM56N325H",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S1128B0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "360 MiB/s",
+        "Minimum average access time": "0.28 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM56N325H",
+    "capacity": "256 GB",
+    "firmware": "U0510A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM56N325H",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U0510A0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "256 MiB/s",
+        "Maximum read speed": "239 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "79°C (174°F)",
+        "Average maximum temperature": "79°C (174°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM24N325H",
+    "capacity": "240 GB",
+    "firmware": "T0317A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM24N325H",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0317A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "464 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM24N325H",
+    "capacity": "240 GB",
+    "firmware": "V2210",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM24N325H",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "V2210",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "171 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "SuperTalent SSD",
+    "capacity": "128 GB",
+    "firmware": "0.1",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "SuperTalent SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "0.1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "205 MiB/s",
+        "Maximum read speed": "167 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT128I1-2YAMCG2",
+    "capacity": "128 GB",
+    "firmware": "HS13272",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT128I1-2YAMCG2",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "HS13272",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "275 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM28N325H",
+    "capacity": "128 GB",
+    "firmware": "S0424A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM28N325H",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "S0424A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "380 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FM6128MORM",
+    "capacity": "128 GB",
+    "firmware": "19041502",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FM6128MORM",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "19041502",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "462 MiB/s",
+        "Maximum read speed": "448 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "20",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "FTM12N325H",
+    "capacity": "120 GB",
+    "firmware": "Q1215B",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "FTM12N325H",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "Q1215B",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "193 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "24°C (75°F)",
+        "Average maximum temperature": "24°C (75°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM64GX25H",
+    "capacity": "64 GB",
+    "firmware": "1916",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM64GX25H",
+        "Capacity": "64 GB (59.6 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "1916",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "251 MiB/s",
+        "Maximum read speed": "181 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM64GX25H",
+    "capacity": "64 GB",
+    "firmware": "2030",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM64GX25H",
+        "Capacity": "64 GB (59.6 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "2030",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "249 MiB/s",
+        "Maximum read speed": "192 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM64GX25H",
+    "capacity": "64 GB",
+    "firmware": "1819",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM64GX25H",
+        "Capacity": "64 GB (59.6 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "1819",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "236 MiB/s",
+        "Maximum read speed": "187 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM32GX25H",
+    "capacity": "32 GB",
+    "firmware": "1819",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM32GX25H",
+        "Capacity": "32 GB (29.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "1819",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "243 MiB/s",
+        "Maximum read speed": "230 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FTM32GX25H",
+    "capacity": "32 GB",
+    "firmware": "1916",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FTM32GX25H",
+        "Capacity": "32 GB (29.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "Indilinx Barefoot",
+        "Firmware": "1916",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "251 MiB/s",
+        "Maximum read speed": "184 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Super-Talent",
+    "model": "STT_FPM32GLSE",
+    "capacity": "32 GB",
+    "firmware": "120202",
+    "sections": {
+      "General information": {
+        "Trademark": "Super Talent",
+        "Model": "STT_FPM32GLSE",
+        "Capacity": "32 GB (29.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "120202",
+        "Firmware upgrade": "not supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum read speed": "82 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "60 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

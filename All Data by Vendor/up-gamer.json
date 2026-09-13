@@ -1,0 +1,316 @@
+[
+  {
+    "brand": "UP-Gamer",
+    "model": "FAST PLUS M.2 512GB NVMe",
+    "capacity": "512.1 GB",
+    "firmware": "H230718a",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "FAST PLUS M.2 512GB NVMe",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H230718a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1285 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "UP GAMER UP500 480GB",
+    "capacity": "480.1 GB",
+    "firmware": "H240119a",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "UP GAMER UP500 480GB",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H240119a",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "422 MiB/s",
+        "Maximum read speed": "353 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "UP GAMER 480GB UP500",
+    "capacity": "480.1 GB",
+    "firmware": "HT3C09Ba",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "UP GAMER 480GB UP500",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HT3C09Ba",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "256 MiB/s",
+        "Maximum read speed": "16 MiB/s",
+        "Minimum average access time": "41.46 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "UP GAMER FAST PLUS 256GB",
+    "capacity": "256 GB",
+    "firmware": "APF1M3R1",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "UP GAMER FAST PLUS 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "APF1M3R1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "493 MiB/s",
+        "Maximum read speed": "428 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (253.6 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "FAST PLUS M.2 256GB NVMe",
+    "capacity": "256 GB",
+    "firmware": "2.O.3.1G",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "FAST PLUS M.2 256GB NVMe",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2.O.3.1G",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "360 MiB/s",
+        "Maximum read speed": "258 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "3 minutes",
+        "Critical maximum temperature": "255°C (491°F)",
+        "Recommended maximum temperature": "110°C (230°F)",
+        "Maximum temperature": "30°C (86°F)",
+        "Average maximum temperature": "30°C (86°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "UPGAMER UP500 240GB",
+    "capacity": "240 GB",
+    "firmware": "HPS2227i",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "UPGAMER UP500 240GB",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HPS2227i",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "312 MiB/s",
+        "Minimum average access time": "0.39 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "4 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UP-Gamer",
+    "model": "UPGAMER-120GB",
+    "capacity": "128 GB",
+    "firmware": "V1.002",
+    "sections": {
+      "General information": {
+        "Trademark": "UP Gamer",
+        "Model": "UPGAMER-120GB",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Realtek",
+        "Firmware": "V1.002",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "249 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

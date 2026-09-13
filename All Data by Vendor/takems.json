@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "takeMS",
+    "model": "takeMS SSD TMS64GSSDM25SU22",
+    "capacity": "64.5 GB",
+    "firmware": "090508S",
+    "sections": {
+      "General information": {
+        "Trademark": "takeMS",
+        "Model": "takeMS SSD TMS64GSSDM25SU22",
+        "Capacity": "64.5 GB (60.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "Controller": "JMicron60x",
+        "Firmware": "090508S",
+        "Firmware upgrade": "not supported",
+        "ATA version": "7",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum read speed": "115 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "not supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "8",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Enhanced security erase": "not supported",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "brand": "VTrust",
+    "model": "V TRUST",
+    "capacity": "256 GB",
+    "firmware": "U0914A0L",
+    "sections": {
+      "General information": {
+        "Trademark": "VTrust",
+        "Model": "V TRUST",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "U0914A0L",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1413 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]

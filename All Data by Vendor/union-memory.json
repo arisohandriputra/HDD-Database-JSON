@@ -1,0 +1,968 @@
+[
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJYJ1T24RLS1QWY",
+    "capacity": "1 TB",
+    "firmware": "1.0L0541",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJYJ1T24RLS1QWY",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.0L0541",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3230 MiB/s",
+        "Maximum read speed": "2749 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPEYJ1T24MKN2QWY",
+    "capacity": "1 TB",
+    "firmware": "1.2L06A1",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPEYJ1T24MKN2QWY",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.2L06A1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3230 MiB/s",
+        "Maximum read speed": "2962 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPETJ1T24MKP2QDQ",
+    "capacity": "1 TB",
+    "firmware": "1.3Q06A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPETJ1T24MKP2QDQ",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.3Q06A0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3094 MiB/s",
+        "Maximum read speed": "2896 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ512MKP1QDY",
+    "capacity": "512.1 GB",
+    "firmware": "1.1L06A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ512MKP1QDY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.1L06A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "4085 MiB/s",
+        "Maximum read speed": "1836 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ512MKP1QDY",
+    "capacity": "512.1 GB",
+    "firmware": "1.2L06A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ512MKP1QDY",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.2L06A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "814 MiB/s",
+        "Maximum read speed": "728 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ512MEE1OWX",
+    "capacity": "512.1 GB",
+    "firmware": "2.1C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ512MEE1OWX",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.1C0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "2016 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "72°C (161°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ512MEE1OWX",
+    "capacity": "512.1 GB",
+    "firmware": "2.2Q0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ512MEE1OWX",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.2Q0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1933 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ512MEE1OWX",
+    "capacity": "512.1 GB",
+    "firmware": "2.0C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ512MEE1OWX",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.0C0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1523 MiB/s",
+        "Maximum read speed": "1517 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPEYJ512MKN1QWQ",
+    "capacity": "512.1 GB",
+    "firmware": "1.0Q06A1",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPEYJ512MKN1QWQ",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "1.0Q06A1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "974 MiB/s",
+        "Maximum read speed": "864 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "20°C (68°F)",
+        "Average maximum temperature": "20°C (68°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS LENSE40512GMSP34MESTB3A",
+    "capacity": "512.1 GB",
+    "firmware": "2.3.7182",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS LENSE40512GMSP34MESTB3A",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.3.7182",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1656 MiB/s",
+        "Maximum read speed": "1303 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "33 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ256MEE1OWX",
+    "capacity": "256 GB",
+    "firmware": "2.0C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ256MEE1OWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.0C0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1851 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ256MEE1OWX",
+    "capacity": "256 GB",
+    "firmware": "2.1C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ256MEE1OWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.1C0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1833 MiB/s",
+        "Maximum read speed": "1237 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ256MEE1OWX",
+    "capacity": "256 GB",
+    "firmware": "2.2Q0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ256MEE1OWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.2Q0628",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1147 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPITJ256PED2MWX",
+    "capacity": "256 GB",
+    "firmware": "ECFR12.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPITJ256PED2MWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "ECFR12.3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1506 MiB/s",
+        "Maximum read speed": "1400 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "10 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPIRJ256VME2MWD",
+    "capacity": "256 GB",
+    "firmware": "1.8Q1908",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPIRJ256VME2MWD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1.8Q1908",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "566 MiB/s",
+        "Maximum read speed": "315 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "17 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPIRJ256VME2MWD",
+    "capacity": "256 GB",
+    "firmware": "1.9Q1908",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPIRJ256VME2MWD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1.9Q1908",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1492 MiB/s",
+        "Maximum read speed": "932 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Full self-test time": "17 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPETJ256MGE2MDQ",
+    "capacity": "256 GB",
+    "firmware": "1.3Q0630",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPETJ256MGE2MDQ",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1.3Q0630",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "593 MiB/s",
+        "Maximum read speed": "459 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "83°C (181°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "RPITJ256MEE1OWX",
+    "capacity": "256 GB",
+    "firmware": "1.1.0620",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "RPITJ256MEE1OWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1.1.0620",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "331 MiB/s",
+        "Maximum read speed": "266 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "RPFTJ256PDD2MWX",
+    "capacity": "256 GB",
+    "firmware": "11.9",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "RPFTJ256PDD2MWX",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "11.9",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum read speed": "451 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "94°C (201°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "70°C (158°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ128MEE1MWX",
+    "capacity": "128 GB",
+    "firmware": "2.0C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ128MEE1MWX",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.0C0628",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "586 MiB/s",
+        "Maximum read speed": "424 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ128MEE1MWX",
+    "capacity": "128 GB",
+    "firmware": "2.1C0628",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ128MEE1MWX",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "2.1C0628",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1057 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "UMIS RPJTJ128MED1MWX",
+    "capacity": "128 GB",
+    "firmware": "1331.1.0",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "UMIS RPJTJ128MED1MWX",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "1331.1.0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum read speed": "899 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "84°C (183°F)",
+        "Recommended maximum temperature": "74°C (165°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "RPFTJ128PDD2EWX",
+    "capacity": "128 GB",
+    "firmware": "11.9",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "RPFTJ128PDD2EWX",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "11.9",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "741 MiB/s",
+        "Maximum read speed": "512 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "94°C (201°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "73°C (163°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Union-Memory",
+    "model": "RPFTJ128PDD2EWX",
+    "capacity": "128 GB",
+    "firmware": "11.82",
+    "sections": {
+      "General information": {
+        "Trademark": "Union Memory",
+        "Model": "RPFTJ128PDD2EWX",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "11.82",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum read speed": "364 MiB/s",
+        "Minimum average access time": "0.28 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "94°C (201°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]

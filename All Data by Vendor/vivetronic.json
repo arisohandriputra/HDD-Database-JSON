@@ -1,0 +1,209 @@
+[
+  {
+    "brand": "Vivetronic",
+    "model": "TP01000GB",
+    "capacity": "1 TB",
+    "firmware": "01.01A01",
+    "sections": {
+      "General information": {
+        "Trademark": "Vivetronic",
+        "Model": "TP01000GB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "01.01A01",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "234 MiB/s",
+        "Maximum read speed": "136 MiB/s",
+        "Minimum average access time": "20.96 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "156 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "146 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Vivetronic",
+    "model": "TP01000GB",
+    "capacity": "1 TB",
+    "firmware": "03.M0300",
+    "sections": {
+      "General information": {
+        "Trademark": "Vivetronic",
+        "Model": "TP01000GB",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.5",
+        "Firmware": "03.M0300",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "227 MiB/s",
+        "Maximum read speed": "106 MiB/s",
+        "Minimum average access time": "12.24 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "17",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "208 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "182 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Vivetronic",
+    "model": "vivetronic",
+    "capacity": "512.1 GB",
+    "firmware": "Q0421B",
+    "sections": {
+      "General information": {
+        "Trademark": "Vivetronic",
+        "Model": "vivetronic",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "Q0421B",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "362 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "19",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Vivetronic",
+    "model": "vivetronic",
+    "capacity": "512.1 GB",
+    "firmware": "T0611A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Vivetronic",
+        "Model": "vivetronic",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "T0611A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "401 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "56°C (132°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

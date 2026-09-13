@@ -1,0 +1,458 @@
+[
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CMAGQ10A-001T",
+    "capacity": "1 TB",
+    "firmware": "SN14243",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CMAGQ10A-001T",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "SN14243",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1594 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CTAHT300-512G",
+    "capacity": "512.1 GB",
+    "firmware": "2352966B",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CTAHT300-512G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "2352966B",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2003 MiB/s",
+        "Minimum average access time": "0.31 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CMAHT301-512G",
+    "capacity": "512.1 GB",
+    "firmware": "SN12221",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CMAHT301-512G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "SN12221",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "967 MiB/s",
+        "Maximum read speed": "589 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CS1HT300-512G",
+    "capacity": "512.1 GB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CS1HT300-512G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "456 MiB/s",
+        "Maximum read speed": "366 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CS1HT100-512G",
+    "capacity": "512.1 GB",
+    "firmware": "X0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CS1HT100-512G",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0220A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "432 MiB/s",
+        "Maximum read speed": "392 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "74°C (165°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CMAHT300-256G",
+    "capacity": "256 GB",
+    "firmware": "SN12221",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CMAHT300-256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "SN12221",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "369 MiB/s",
+        "Maximum read speed": "330 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (8 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD6CS1HT100-256G",
+    "capacity": "256 GB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD6CS1HT100-256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "241 MiB/s",
+        "Maximum read speed": "209 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD3CS1HT301-256G",
+    "capacity": "256 GB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD3CS1HT301-256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "433 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD2CS1HT301-256G",
+    "capacity": "256 GB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD2CS1HT301-256G",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "325 MiB/s",
+        "Maximum read speed": "255 MiB/s",
+        "Minimum average access time": "0.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "64°C (147°F)",
+        "Average maximum temperature": "64°C (147°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "UDSS",
+    "model": "UDSS UD3CS1HT2A0-128G",
+    "capacity": "128 GB",
+    "firmware": "V0422A0",
+    "sections": {
+      "General information": {
+        "Trademark": "UDSS",
+        "Model": "UDSS UD3CS1HT2A0-128G",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0422A0",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "334 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

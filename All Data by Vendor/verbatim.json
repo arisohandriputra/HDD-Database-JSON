@@ -1,0 +1,3199 @@
+[
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "H220916a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H220916a",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "443 MiB/s",
+        "Maximum read speed": "407 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "H221215a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H221215a",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "463 MiB/s",
+        "Maximum read speed": "437 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "U0330A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U0330A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "419 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "U0506A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U0506A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "424 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "VE0R840N",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "4 TB (3.7 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Realtek",
+        "Firmware": "VE0R840N",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "304 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "40 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "466 MiB/s",
+        "Maximum read speed": "356 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "X0223A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0223A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "478 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "U1124A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U1124A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "431 MiB/s",
+        "Maximum read speed": "370 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "X0912A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0912A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "482 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "H240225a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H240225a",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "458 MiB/s",
+        "Maximum read speed": "429 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "439 MiB/s",
+        "Maximum read speed": "378 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "W0802A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0802A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "484 MiB/s",
+        "Maximum read speed": "474 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "1017A",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "1017A",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "475 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "29°C (84°F)",
+        "Average maximum temperature": "29°C (84°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "H230918a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H230918a",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "382 MiB/s",
+        "Maximum read speed": "261 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "H231124a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H231124a",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "301 MiB/s",
+        "Maximum read speed": "156 MiB/s",
+        "Minimum average access time": "0.35 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "16",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "U1125A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U1125A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "251 MiB/s",
+        "Maximum read speed": "226 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "V0414A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "V0414A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "249 MiB/s",
+        "Maximum read speed": "231 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi550 S3",
+    "capacity": "4 TB",
+    "firmware": "X0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0220A0",
+        "Alternative firmwares": "17",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "305 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi5000",
+    "capacity": "2 TB",
+    "firmware": "VF001C45",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi5000",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "VF001C45",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "8 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2611 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "110°C (230°F)",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi560 S3",
+    "capacity": "2 TB",
+    "firmware": "W0201A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi560 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0201A0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "380 MiB/s",
+        "Maximum read speed": "326 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi560 S3",
+    "capacity": "2 TB",
+    "firmware": "W0406A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi560 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0406A0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "307 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "50°C (122°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi560 S3",
+    "capacity": "2 TB",
+    "firmware": "X1113A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi560 S3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X1113A0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "465 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "HP3C09BA",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP3C09BA",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "431 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "32 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFM61.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "491 MiB/s",
+        "Maximum read speed": "444 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "HP5310B3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP5310B3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "170 MiB/s",
+        "Minimum average access time": "0.33 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "32 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "R1201A",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "R1201A",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "392 MiB/s",
+        "Minimum average access time": "0.31 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFMP1.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMP1.5",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "488 MiB/s",
+        "Maximum read speed": "467 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFM11.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM11.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "379 MiB/s",
+        "Minimum average access time": "0.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFM61.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFM61.5",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "489 MiB/s",
+        "Maximum read speed": "460 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFME1.2",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFME1.2",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "192 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFME1.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFME1.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "217 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SBFMP1.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Phison",
+        "Firmware": "SBFMP1.3",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "462 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "30 minutes",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "20 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "SN15330",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "SN15330",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "225 MiB/s",
+        "Maximum read speed": "219 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "11",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "32°C (89°F)",
+        "Average maximum temperature": "32°C (89°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "V4.9",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "V4.9",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "445 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "W0424A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0424A0",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "251 MiB/s",
+        "Maximum read speed": "220 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "X0411C0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0411C0",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "22 MiB/s",
+        "Maximum read speed": "19 MiB/s",
+        "Minimum average access time": "0.45 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3 SSD",
+    "capacity": "2 TB",
+    "firmware": "Y0325A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3 SSD",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "Y0325A0",
+        "Alternative firmwares": "14",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "490 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3",
+    "capacity": "2 TB",
+    "firmware": "X1113A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "X1113A0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "449 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3",
+    "capacity": "2 TB",
+    "firmware": "HP3418C5",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP3418C5",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "413 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "32°C (89°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3",
+    "capacity": "2 TB",
+    "firmware": "HT3B22A3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HT3B22A3",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "294 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3",
+    "capacity": "2 TB",
+    "firmware": "HP3418B2",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Yeestor",
+        "Firmware": "HP3418B2",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "not supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "134 MiB/s",
+        "Maximum read speed": "26 MiB/s",
+        "Minimum average access time": "4.65 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi550 S3",
+    "capacity": "2 TB",
+    "firmware": "Y0106A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi550 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "Y0106A0",
+        "Alternative firmwares": "4",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "433 MiB/s",
+        "Maximum read speed": "403 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi3000 SSD",
+    "capacity": "1 TB",
+    "firmware": "EDFM00.5",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi3000 SSD",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "EDFM00.5",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "192 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (767.2 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "85°C (185°F)",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "31°C (87°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi3000 Internal PCIe NVMe M.2 SSD 1TB",
+    "capacity": "1 TB",
+    "firmware": "H220902a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi3000 Internal PCIe NVMe M.2 SSD 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H220902a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2256 MiB/s",
+        "Maximum read speed": "2072 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi5000",
+    "capacity": "1 TB",
+    "firmware": "H230610a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi5000",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H230610a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1905 MiB/s",
+        "Maximum read speed": "1715 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (32 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi3000",
+    "capacity": "1 TB",
+    "firmware": "APF1M3R1",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi3000",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "APF1M3R1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "3 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "408 MiB/s",
+        "Maximum read speed": "353 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi560 S3",
+    "capacity": "1 TB",
+    "firmware": "H220916a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi560 S3",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H220916a",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "519 MiB/s",
+        "Maximum read speed": "446 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "53°C (127°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi560 S3",
+    "capacity": "1 TB",
+    "firmware": "U1013A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi560 S3",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U1013A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "431 MiB/s",
+        "Maximum read speed": "351 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi560",
+    "capacity": "1 TB",
+    "firmware": "W0714A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi560",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0714A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "472 MiB/s",
+        "Maximum read speed": "399 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi560",
+    "capacity": "1 TB",
+    "firmware": "W0704A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi560",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0704A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "459 MiB/s",
+        "Maximum read speed": "316 MiB/s",
+        "Minimum average access time": "0.24 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi5000 SSD",
+    "capacity": "512.1 GB",
+    "firmware": "GTc7740f",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi5000 SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "GTc7740f",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1866 MiB/s",
+        "Maximum read speed": "1721 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (40 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "38°C (100°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi5000 Internal PCIe M.2 SSD",
+    "capacity": "512.1 GB",
+    "firmware": "X0124A0",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi5000 Internal PCIe M.2 SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "X0124A0",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1539 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "15 minutes",
+        "Critical maximum temperature": "93°C (199°F)",
+        "Recommended maximum temperature": "86°C (186°F)",
+        "Maximum temperature": "37°C (98°F)",
+        "Average maximum temperature": "37°C (98°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Vi3000 Internal PCIe NVMe M.2 SSD 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "H250317a",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Vi3000 Internal PCIe NVMe M.2 SSD 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "H250317a",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "2087 MiB/s",
+        "Maximum read speed": "1977 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi560 SATA III M.2 SSD",
+    "capacity": "512.1 GB",
+    "firmware": "H190505",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi560 SATA III M.2 SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "H190505",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "315 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "26",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Metal Mini SSD",
+    "capacity": "512.1 GB",
+    "firmware": "X0531C00",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Metal Mini SSD",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Controller": "Silicon Motion",
+        "Firmware": "X0531C00",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum read speed": "24 MiB/s",
+        "Minimum average access time": "0.41 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "29",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 480GB SSD",
+    "capacity": "480.1 GB",
+    "firmware": "R0818A",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 480GB SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "R0818A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "383 MiB/s",
+        "Minimum average access time": "0.36 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 480GB SSD",
+    "capacity": "480.1 GB",
+    "firmware": "R1029A",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 480GB SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "R1029A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "35 MiB/s",
+        "Maximum read speed": "34 MiB/s",
+        "Minimum average access time": "0.52 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 480GB SSD",
+    "capacity": "480.1 GB",
+    "firmware": "V4.9",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 480GB SSD",
+        "Capacity": "480.1 GB (447.1 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "V4.9",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "345 MiB/s",
+        "Minimum average access time": "0.34 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 240GB SSD",
+    "capacity": "240 GB",
+    "firmware": "R0818A",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 240GB SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "R0818A",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "311 MiB/s",
+        "Minimum average access time": "0.44 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 240GB SSD",
+    "capacity": "240 GB",
+    "firmware": "V3.35",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 240GB SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "V3.35",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "342 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 240GB SSD",
+    "capacity": "240 GB",
+    "firmware": "V4.7",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 240GB SSD",
+        "Capacity": "240 GB (223.5 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "V4.7",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "412 MiB/s",
+        "Minimum average access time": "0.27 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Temperature sensor": "fake"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 120GB SSD",
+    "capacity": "120 GB",
+    "firmware": "V4.7",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 120GB SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "V4.7",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "401 MiB/s",
+        "Minimum average access time": "0.29 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "28",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 120GB SSD",
+    "capacity": "120 GB",
+    "firmware": "N1209B",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 120GB SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "N1209B",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "402 MiB/s",
+        "Maximum read speed": "314 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim Vi500 S3 120GB SSD",
+    "capacity": "120 GB",
+    "firmware": "P0127C",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim Vi500 S3 120GB SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Marvell",
+        "Firmware": "P0127C",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "470 MiB/s",
+        "Maximum read speed": "441 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "27",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "1 minutes",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim SATA-III SSD",
+    "capacity": "120 GB",
+    "firmware": "5.0.3",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim SATA-III SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "5.0.3",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "212 MiB/s",
+        "Maximum read speed": "195 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Temperature sensor": "not supported"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Verbatim",
+    "model": "Verbatim SATA-III SSD",
+    "capacity": "120 GB",
+    "firmware": "FW3.3.2",
+    "sections": {
+      "General information": {
+        "Trademark": "Verbatim",
+        "Model": "Verbatim SATA-III SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "SandForce",
+        "Firmware": "FW3.3.2",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "362 MiB/s",
+        "Maximum read speed": "323 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "48 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "not supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]
