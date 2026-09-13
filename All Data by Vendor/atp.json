@@ -1,0 +1,52 @@
+[
+  {
+    "brand": "ATP",
+    "model": "ATP SATA III M.2 2242 SSD",
+    "capacity": "120 GB",
+    "firmware": "S1206A",
+    "sections": {
+      "General information": {
+        "Trademark": "ATP",
+        "Model": "ATP SATA III M.2 2242 SSD",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "M.2",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.3",
+        "Controller": "unknown",
+        "Firmware": "S1206A",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-3",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "408 MiB/s",
+        "Maximum read speed": "406 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "30 minutes",
+        "Recommended maximum temperature": "100°C (212°F)",
+        "Maximum temperature": "62°C (143°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  }
+]

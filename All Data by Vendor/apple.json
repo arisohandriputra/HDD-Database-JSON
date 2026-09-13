@@ -1,0 +1,3088 @@
+[
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST3000DM001",
+    "capacity": "3 TB",
+    "firmware": "AQ03",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST3000DM001",
+        "Capacity": "3 TB (2.7 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AQ03",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "475 MiB/s",
+        "Maximum read speed": "213 MiB/s",
+        "Minimum average access time": "15.20 msec",
+        "Cache buffer": "64 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "320 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST2000LM003",
+    "capacity": "2 TB",
+    "firmware": "2BC10008",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST2000LM003",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "2BC10008",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "245 MiB/s",
+        "Maximum read speed": "140 MiB/s",
+        "Minimum average access time": "17.80 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "> 255 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "358 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST2000DM001",
+    "capacity": "2 TB",
+    "firmware": "AQ03",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST2000DM001",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AQ03",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "452 MiB/s",
+        "Maximum read speed": "209 MiB/s",
+        "Minimum average access time": "14.50 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "218 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "210 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST2000DM001",
+    "capacity": "2 TB",
+    "firmware": "AQ52",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST2000DM001",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AQ52",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "238 MiB/s",
+        "Maximum read speed": "205 MiB/s",
+        "Minimum average access time": "15.45 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "24",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "211 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "57°C (134°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "202 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM1024L",
+    "capacity": "1 TB",
+    "firmware": "CXS7LA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM1024L",
+        "Capacity": "1 TB (931.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.1",
+        "Firmware": "CXS7LA0Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "945 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM1024L",
+    "capacity": "1 TB",
+    "firmware": "CXS8DA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM1024L",
+        "Capacity": "1 TB (931.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.1",
+        "Firmware": "CXS8DA0Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1788 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM1024G",
+    "capacity": "1 TB",
+    "firmware": "BXW1SA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM1024G",
+        "Capacity": "1 TB (931.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXW1SA0Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "573 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "70°C (158°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM1024G",
+    "capacity": "1 TB",
+    "firmware": "BXW8SA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM1024G",
+        "Capacity": "1 TB (931.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXW8SA0Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "895 MiB/s",
+        "Maximum read speed": "804 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "74°C (165°F)",
+        "Average maximum temperature": "74°C (165°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM1024F",
+    "capacity": "1 TB",
+    "firmware": "UXM6JA1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM1024F",
+        "Capacity": "1 TB (931.8 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "UXM6JA1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "986 MiB/s",
+        "Maximum read speed": "721 MiB/s",
+        "Minimum average access time": "0.12 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "81°C (177°F)",
+        "Average maximum temperature": "72°C (161°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD WDC WD10EALX-408EA0",
+    "capacity": "1 TB",
+    "firmware": "07.01D03",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD WDC WD10EALX-408EA0",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "07.01D03",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "397 MiB/s",
+        "Maximum read speed": "157 MiB/s",
+        "Minimum average access time": "18.77 msec",
+        "Cache buffer": "31.9 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "18",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "195 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "172 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000LM024",
+    "capacity": "1 TB",
+    "firmware": "2AR20008",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000LM024",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "2AR20008",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "223 MiB/s",
+        "Maximum read speed": "106 MiB/s",
+        "Minimum average access time": "17.44 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "222 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "56°C (132°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "212 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000LM024",
+    "capacity": "1 TB",
+    "firmware": "2BA30007",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000LM024",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "2BA30007",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "224 MiB/s",
+        "Maximum read speed": "109 MiB/s",
+        "Minimum average access time": "18.81 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "204 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "196 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AQ03",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AQ03",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "243 MiB/s",
+        "Maximum read speed": "206 MiB/s",
+        "Minimum average access time": "14.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "109 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "106 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AP14",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AP14",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "237 MiB/s",
+        "Maximum read speed": "199 MiB/s",
+        "Minimum average access time": "14.2 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "113 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "110 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AP18",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AP18",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "250 MiB/s",
+        "Maximum read speed": "198 MiB/s",
+        "Minimum average access time": "13.99 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "111 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "108 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AP15",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "AP15",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "247 MiB/s",
+        "Maximum read speed": "191 MiB/s",
+        "Minimum average access time": "14.17 msec",
+        "Cache buffer": "13.1 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "20",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "111 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "106 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AQ04",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AQ04",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "429 MiB/s",
+        "Maximum read speed": "218 MiB/s",
+        "Minimum average access time": "14.19 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "105 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "100 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST1000DM003",
+    "capacity": "1 TB",
+    "firmware": "AP19",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST1000DM003",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "3.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.1",
+        "Firmware": "AP19",
+        "Alternative firmwares": "5",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "243 MiB/s",
+        "Maximum read speed": "181 MiB/s",
+        "Minimum average access time": "15.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "not supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "111 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "62°C (143°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "106 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS541010A9E662",
+    "capacity": "1 TB",
+    "firmware": "JA0AB5D0",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS541010A9E662",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JA0AB5D0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "441 MiB/s",
+        "Maximum read speed": "119 MiB/s",
+        "Minimum average access time": "16.50 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "253 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "55°C (131°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "252 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS541010A9E662",
+    "capacity": "1 TB",
+    "firmware": "JA0AB560",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS541010A9E662",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JA0AB560",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "250 MiB/s",
+        "Maximum read speed": "109 MiB/s",
+        "Minimum average access time": "16.53 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "239 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "50°C (122°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "238 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS541010A9E632",
+    "capacity": "1 TB",
+    "firmware": "JA0AB5N0",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS541010A9E632",
+        "Capacity": "1 TB (931.5 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JA0AB5N0",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "245 MiB/s",
+        "Maximum read speed": "134 MiB/s",
+        "Minimum average access time": "16.47 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "246 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "244 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS727575A9E362",
+    "capacity": "750.1 GB",
+    "firmware": "JF4AD0N0",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS727575A9E362",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JF4AD0N0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "232 MiB/s",
+        "Maximum read speed": "135 MiB/s",
+        "Minimum average access time": "15.56 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "156 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "156 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS727575A9E362",
+    "capacity": "750.1 GB",
+    "firmware": "JF4AD0M0",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS727575A9E362",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JF4AD0M0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "180 MiB/s",
+        "Maximum read speed": "68 MiB/s",
+        "Minimum average access time": "89.59 msec",
+        "Cache buffer": "16 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "7200 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "142 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "59°C (138°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "140 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS547575A9E384",
+    "capacity": "750.1 GB",
+    "firmware": "JE4AD70E",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS547575A9E384",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JE4AD70E",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "225 MiB/s",
+        "Maximum read speed": "97 MiB/s",
+        "Minimum average access time": "18.11 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "206 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "55°C (131°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "204 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS547575A9E384",
+    "capacity": "750.1 GB",
+    "firmware": "JE4AD70F",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS547575A9E384",
+        "Capacity": "750.1 GB (698.6 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JE4AD70F",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "223 MiB/s",
+        "Maximum read speed": "95 MiB/s",
+        "Minimum average access time": "17.95 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "194 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "192 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS512C",
+    "capacity": "500.2 GB",
+    "firmware": "CJAA0201",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS512C",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "CJAA0201",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "240 MiB/s",
+        "Maximum read speed": "203 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "47 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS512B",
+    "capacity": "500.2 GB",
+    "firmware": "AGAA0206",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS512B",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "AGAA0206",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "215 MiB/s",
+        "Maximum read speed": "193 MiB/s",
+        "Minimum average access time": "0.25 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "39 minutes",
+        "Maximum temperature": "59°C (138°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "4 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM512E",
+    "capacity": "500.2 GB",
+    "firmware": "CXM09A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM512E",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "CXM09A1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "403 MiB/s",
+        "Maximum read speed": "382 MiB/s",
+        "Minimum average access time": "0.16 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "32 minutes",
+        "Maximum temperature": "85°C (185°F)",
+        "Average maximum temperature": "84°C (183°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0512G",
+    "capacity": "500.2 GB",
+    "firmware": "BXW1PA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0512G",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXW1PA0Q",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "657 MiB/s",
+        "Maximum read speed": "645 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "84°C (183°F)",
+        "Average maximum temperature": "76°C (168°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0512G",
+    "capacity": "500.2 GB",
+    "firmware": "BXW1SA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0512G",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXW1SA0Q",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "1340 MiB/s",
+        "Maximum read speed": "1290 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "83°C (181°F)",
+        "Average maximum temperature": "82°C (179°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0512G",
+    "capacity": "500.2 GB",
+    "firmware": "BXZ13A0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0512G",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXZ13A0Q",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "714 MiB/s",
+        "Maximum read speed": "614 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "75°C (167°F)",
+        "Average maximum temperature": "75°C (167°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0512F",
+    "capacity": "500.2 GB",
+    "firmware": "UXM2JA1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0512F",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "UXM2JA1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "655 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "78°C (172°F)",
+        "Average maximum temperature": "73°C (163°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0512F",
+    "capacity": "500.2 GB",
+    "firmware": "UXM2EA1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0512F",
+        "Capacity": "500.2 GB (465.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "UXM2EA1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "442 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "72°C (161°F)",
+        "Average maximum temperature": "72°C (161°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST500LM012",
+    "capacity": "500.1 GB",
+    "firmware": "2AR30007",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST500LM012",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "2AR30007",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum read speed": "108 MiB/s",
+        "Minimum average access time": "17.94 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "109 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "104 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD ST500LM012",
+    "capacity": "500.1 GB",
+    "firmware": "2AR20008",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD ST500LM012",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Firmware": "2AR20008",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "228 MiB/s",
+        "Maximum read speed": "99 MiB/s",
+        "Minimum average access time": "17.47 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "23",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "110 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "48°C (118°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "106 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS547550A9E384",
+    "capacity": "500.1 GB",
+    "firmware": "JE3AD70F",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS547550A9E384",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JE3AD70F",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "231 MiB/s",
+        "Maximum read speed": "99 MiB/s",
+        "Minimum average access time": "17.15 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "146 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "144 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS547550A9E384",
+    "capacity": "500.1 GB",
+    "firmware": "JE3AD70E",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS547550A9E384",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "JE3AD70E",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "218 MiB/s",
+        "Maximum read speed": "83 MiB/s",
+        "Minimum average access time": "17.77 msec",
+        "Cache buffer": "8 MiB",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "142 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "140 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS545050A7E362",
+    "capacity": "500.1 GB",
+    "firmware": "GG2AB990",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS545050A7E362",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "GG2AB990",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "250 MiB/s",
+        "Maximum read speed": "115 MiB/s",
+        "Minimum average access time": "20.50 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "117 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "53°C (127°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "116 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE HDD HTS545050A7E362",
+    "capacity": "500.1 GB",
+    "firmware": "GG2AB980",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE HDD HTS545050A7E362",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "HDD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Firmware": "GG2AB980",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "250 MiB/s",
+        "Maximum read speed": "123 MiB/s",
+        "Minimum average access time": "21.0 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Acoustic management (AAM)": "not supported",
+        "Clearing unused data (TRIM)": "not supported",
+        "Rotation rate": "5400 rpm"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "Free-fall control": "supported",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "112 minutes",
+        "Critical maximum temperature": "65°C (149°F)",
+        "Recommended maximum temperature": "60°C (140°F)",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "112 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0256L",
+    "capacity": "251 GB",
+    "firmware": "CXS6AA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0256L",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.1",
+        "Firmware": "CXS6AA0Q",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "647 MiB/s",
+        "Maximum read speed": "379 MiB/s",
+        "Minimum average access time": "0.36 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS256C",
+    "capacity": "251 GB",
+    "firmware": "CJAA0201",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS256C",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "< 1.8",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "CJAA0201",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "247 MiB/s",
+        "Maximum read speed": "191 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Critical maximum temperature": "70°C (158°F)",
+        "Recommended maximum temperature": "40°C (104°F)",
+        "Maximum temperature": "65°C (149°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS256C",
+    "capacity": "251 GB",
+    "firmware": "CJAA0202",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS256C",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "CJAA0202",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "239 MiB/s",
+        "Maximum read speed": "197 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "24 minutes",
+        "Maximum temperature": "61°C (141°F)",
+        "Average maximum temperature": "60°C (140°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS256B",
+    "capacity": "251 GB",
+    "firmware": "AGAA0206",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS256B",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "AGAA0206",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "236 MiB/s",
+        "Maximum read speed": "162 MiB/s",
+        "Minimum average access time": "0.26 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "71°C (159°F)",
+        "Average maximum temperature": "69°C (156°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS256A",
+    "capacity": "251 GB",
+    "firmware": "AGAB0202",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS256A",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "AGAB0202",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "150 MB/s",
+        "Maximum buffered read speed": "120 MiB/s",
+        "Maximum read speed": "118 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "not supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "20 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM256E",
+    "capacity": "251 GB",
+    "firmware": "CXM09A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM256E",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "CXM09A1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "437 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "65°C (149°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM256E",
+    "capacity": "251 GB",
+    "firmware": "CXM07A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM256E",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "CXM07A1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "432 MiB/s",
+        "Maximum read speed": "406 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "16 minutes",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM256C",
+    "capacity": "251 GB",
+    "firmware": "AXM09A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM256C",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "Samsung",
+        "Firmware": "AXM09A1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum read speed": "201 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "22",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "28 minutes",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "62°C (143°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0256F",
+    "capacity": "251 GB",
+    "firmware": "UXM2JA1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0256F",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "UXM2JA1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "648 MiB/s",
+        "Maximum read speed": "538 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "80°C (176°F)",
+        "Average maximum temperature": "73°C (163°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SD0256F",
+    "capacity": "251 GB",
+    "firmware": "A222021",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SD0256F",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "3.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Marvell",
+        "Firmware": "A222021",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "420 MiB/s",
+        "Maximum read speed": "296 MiB/s",
+        "Minimum average access time": "0.30 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "95°C (203°F)",
+        "Average maximum temperature": "95°C (203°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SD0256F",
+    "capacity": "251 GB",
+    "firmware": "A222821",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SD0256F",
+        "Capacity": "251 GB (233.7 GiB)",
+        "Form-factor": "3.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Marvell",
+        "Firmware": "A222821",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "578 MiB/s",
+        "Maximum read speed": "563 MiB/s",
+        "Minimum average access time": "0.23 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "90°C (194°F)",
+        "Average maximum temperature": "90°C (194°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0128L",
+    "capacity": "121.3 GB",
+    "firmware": "CXS7LA0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0128L",
+        "Capacity": "121.3 GB (113 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.1",
+        "Firmware": "CXS7LA0Q",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1019 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS128C",
+    "capacity": "121.3 GB",
+    "firmware": "CJAA0201",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS128C",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Form-factor": "< 1.8",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "CJAA0201",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "243 MiB/s",
+        "Maximum read speed": "219 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "12 minutes",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM128E",
+    "capacity": "121.3 GB",
+    "firmware": "CXM09A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM128E",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "CXM09A1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "418 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "70°C (158°F)",
+        "Average maximum temperature": "69°C (156°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM128E",
+    "capacity": "121.3 GB",
+    "firmware": "CXM07A1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM128E",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "CXM07A1Q",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "432 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "10",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "8 minutes",
+        "Maximum temperature": "51°C (123°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0128G",
+    "capacity": "121.3 GB",
+    "firmware": "BXZ33A0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0128G",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "BXZ33A0Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "1016 MiB/s",
+        "Maximum read speed": "605 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "12",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "76°C (168°F)",
+        "Average maximum temperature": "72°C (161°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0128F",
+    "capacity": "121.3 GB",
+    "firmware": "UXM2EA1Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0128F",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Samsung",
+        "Firmware": "UXM2EA1Q",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "651 MiB/s",
+        "Minimum average access time": "0.6 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "68°C (154°F)",
+        "Average maximum temperature": "68°C (154°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "6 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SD0128F",
+    "capacity": "121.3 GB",
+    "firmware": "A222821",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SD0128F",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Form-factor": "3.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Marvell",
+        "Firmware": "A222821",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "538 MiB/s",
+        "Minimum average access time": "0.5 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "89°C (192°F)",
+        "Average maximum temperature": "83°C (181°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SD0128F",
+    "capacity": "121.3 GB",
+    "firmware": "A223321",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SD0128F",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Form-factor": "3.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Marvell",
+        "Firmware": "A223321",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "564 MiB/s",
+        "Maximum read speed": "533 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "86°C (186°F)",
+        "Average maximum temperature": "81°C (177°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SD0128F",
+    "capacity": "121.3 GB",
+    "firmware": "A222621",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SD0128F",
+        "Capacity": "121.3 GB (112.9 GiB)",
+        "Form-factor": "3.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.0",
+        "Controller": "Marvell",
+        "Firmware": "A222621",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "369 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "13",
+        "SMART command transport (SCT)": "not supported",
+        "Self-test": "not supported",
+        "Maximum temperature": "87°C (188°F)",
+        "Average maximum temperature": "87°C (188°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD TS064C",
+    "capacity": "60.6 GB",
+    "firmware": "CJAA0201",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD TS064C",
+        "Capacity": "60.6 GB (56.4 GiB)",
+        "Form-factor": "< 1.8",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "2.6",
+        "Controller": "JMicron61x",
+        "Firmware": "CJAA0201",
+        "Firmware upgrade": "supported",
+        "ATA version": "8 (ACS)",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "300 MB/s",
+        "Maximum buffered read speed": "239 MiB/s",
+        "Maximum read speed": "184 MiB/s",
+        "Minimum average access time": "0.22 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "not supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "21",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "7 minutes",
+        "Maximum temperature": "60°C (140°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "APPLE SSD SM0032L",
+    "capacity": "28 GB",
+    "firmware": "DXZ77A0Q",
+    "sections": {
+      "General information": {
+        "Trademark": "Apple",
+        "Model": "APPLE SSD SM0032L",
+        "Capacity": "28 GB (26 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.2",
+        "Firmware": "DXZ77A0Q",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "4 W",
+        "Advanced Format": "supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "1970 MB/s (PCIe 3.0 x2)",
+        "Maximum buffered read speed": "1249 MiB/s",
+        "Maximum read speed": "839 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "not supported"
+      },
+      "Reliability": {
+        "Self-test": "not supported",
+        "Critical maximum temperature": "82°C (179°F)",
+        "Recommended maximum temperature": "79°C (174°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "not supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]
