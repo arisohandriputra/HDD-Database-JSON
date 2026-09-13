@@ -1,0 +1,1497 @@
+[
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus7100 2TB",
+    "capacity": "2 TB",
+    "firmware": "ZTA22006",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus7100 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "ZTA22006",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "3163 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (40 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "46°C (114°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI Ti600 2TB",
+    "capacity": "2 TB",
+    "firmware": "ZTA23004",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI Ti600 2TB",
+        "Capacity": "2 TB (1.8 TiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "2.0",
+        "Firmware": "ZTA23004",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2887 MiB/s",
+        "Maximum read speed": "2597 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (40 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "54°C (129°F)",
+        "Average maximum temperature": "54°C (129°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus7100 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA22002",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus7100 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA22002",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3213 MiB/s",
+        "Maximum read speed": "2342 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (32 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "58°C (136°F)",
+        "Average maximum temperature": "58°C (136°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus7100 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA22003",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus7100 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA22003",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2267 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (32 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "63°C (145°F)",
+        "Average maximum temperature": "63°C (145°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus7100 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA22004",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus7100 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA22004",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3298 MiB/s",
+        "Maximum read speed": "3160 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (32 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "52°C (125°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus5000 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA10093",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus5000 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA10093",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "377 MiB/s",
+        "Maximum read speed": "375 MiB/s",
+        "Minimum average access time": "0.21 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus5000 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA10613",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus5000 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA10613",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "646 MiB/s",
+        "Maximum read speed": "588 MiB/s",
+        "Minimum average access time": "0.13 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "43°C (109°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus5000 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA10666",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus5000 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA10666",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "603 MiB/s",
+        "Maximum read speed": "404 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI TiPlus5000 1TB",
+    "capacity": "1 TB",
+    "firmware": "ZTA10667",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI TiPlus5000 1TB",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "ZTA10667",
+        "Alternative firmwares": "3",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "6 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "991 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (16 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "95°C (203°F)",
+        "Recommended maximum temperature": "90°C (194°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "49°C (120°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC YMSS2ED08D25MC",
+    "capacity": "1 TB",
+    "firmware": "LN3603D1",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC YMSS2ED08D25MC",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "LN3603D1",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2267 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "52°C (125°F)",
+        "Average maximum temperature": "46°C (114°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC YMSS2ED08D25MC",
+    "capacity": "1 TB",
+    "firmware": "LN3603D3",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC YMSS2ED08D25MC",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "LN3603D3",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1625 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC41Q-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM11D343",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC41Q-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM11D343",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3894 MiB/s",
+        "Maximum read speed": "2873 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "43°C (109°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC41Q-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM11D332",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC41Q-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM11D332",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "427 MiB/s",
+        "Minimum average access time": "0.15 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-1TB-D",
+    "capacity": "1 TB",
+    "firmware": "YM3603B1",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-1TB-D",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603B1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3064 MiB/s",
+        "Maximum read speed": "2824 MiB/s",
+        "Minimum average access time": "0.10 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "49°C (120°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM3603E2",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603E2",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2976 MiB/s",
+        "Maximum read speed": "2679 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM3603E3",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603E3",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1863 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "28°C (82°F)",
+        "Average maximum temperature": "28°C (82°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-1TB-D",
+    "capacity": "1 TB",
+    "firmware": "YM0500C9",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-1TB-D",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C9",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1132 MiB/s",
+        "Maximum read speed": "522 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM0500C6",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C6",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2438 MiB/s",
+        "Minimum average access time": "0.7 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "66°C (150°F)",
+        "Average maximum temperature": "40°C (104°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM0500C7",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C7",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2471 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "48°C (118°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-1TB-B",
+    "capacity": "1 TB",
+    "firmware": "YM0500CB",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-1TB-B",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500CB",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "1863 MiB/s",
+        "Minimum average access time": "0.11 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "41°C (105°F)",
+        "Average maximum temperature": "41°C (105°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI SC001 Active 1TB SSD",
+    "capacity": "1 TB",
+    "firmware": "ZT016200",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI SC001 Active 1TB SSD",
+        "Capacity": "1 TB (953.8 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "ZT016200",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "442 MiB/s",
+        "Maximum read speed": "385 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "40°C (104°F)",
+        "Average maximum temperature": "38°C (100°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC41Q-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM11D332",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC41Q-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM11D332",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1598 MiB/s",
+        "Maximum read speed": "527 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "30 minutes",
+        "Critical maximum temperature": "85°C (185°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "33°C (91°F)",
+        "Average maximum temperature": "33°C (91°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM3603B0",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603B0",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "3189 MiB/s",
+        "Maximum read speed": "3107 MiB/s",
+        "Minimum average access time": "0.1 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM3603BX",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603BX",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2694 MiB/s",
+        "Maximum read speed": "1941 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC411-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM3603E2",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC411-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM3603E2",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "2166 MiB/s",
+        "Maximum read speed": "1897 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "75°C (167°F)",
+        "Recommended maximum temperature": "70°C (158°F)",
+        "Maximum temperature": "34°C (93°F)",
+        "Average maximum temperature": "34°C (93°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM0500C6",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C6",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2636 MiB/s",
+        "Minimum average access time": "0.3 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "77°C (170°F)",
+        "Average maximum temperature": "51°C (123°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM0500C9",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C9",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum read speed": "2502 MiB/s",
+        "Minimum average access time": "0.2 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "31°C (87°F)",
+        "Average maximum temperature": "30°C (86°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC PC300-512GB-B",
+    "capacity": "512.1 GB",
+    "firmware": "YM0500C7",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC PC300-512GB-B",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.4",
+        "Firmware": "YM0500C7",
+        "Alternative firmwares": "2",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "5 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "7876 MB/s (PCIe 4.0 x4)",
+        "Maximum buffered read speed": "1106 MiB/s",
+        "Maximum read speed": "731 MiB/s",
+        "Minimum average access time": "0.19 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "supported (64 MiB)",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "83°C (181°F)",
+        "Maximum temperature": "44°C (111°F)",
+        "Average maximum temperature": "44°C (111°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "PCIe-8 SSD 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "YM00D217",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "PCIe-8 SSD 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "YM00D217",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "2067 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "47°C (116°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "PCIe-8 SSD 512GB",
+    "capacity": "512.1 GB",
+    "firmware": "YM00D216",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "PCIe-8 SSD 512GB",
+        "Capacity": "512.1 GB (476.9 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "YM00D216",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1926 MiB/s",
+        "Minimum average access time": "0.9 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "57°C (134°F)",
+        "Average maximum temperature": "47°C (116°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI SC001 XT 500GB",
+    "capacity": "500.1 GB",
+    "firmware": "ZTA02001",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI SC001 XT 500GB",
+        "Capacity": "500.1 GB (465.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "ZTA02001",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-4",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum buffered read speed": "193 MiB/s",
+        "Maximum read speed": "172 MiB/s",
+        "Minimum average access time": "0.17 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "85 minutes",
+        "Maximum temperature": "35°C (95°F)",
+        "Average maximum temperature": "35°C (95°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "PCIe-8 SSD 256GB",
+    "capacity": "256 GB",
+    "firmware": "YM00D213",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "PCIe-8 SSD 256GB",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "YM00D213",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum read speed": "1629 MiB/s",
+        "Minimum average access time": "0.4 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "75°C (167°F)",
+        "Maximum temperature": "36°C (96°F)",
+        "Average maximum temperature": "36°C (96°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "ZHITAI SC001 Active 256GB SSD",
+    "capacity": "256 GB",
+    "firmware": "ZT015200",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "ZHITAI SC001 Active 256GB SSD",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Maxiotek",
+        "Firmware": "ZT015200",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "263 MiB/s",
+        "Minimum average access time": "0.20 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "not supported",
+        "Device sleep (DevSleep)": "supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "2 minutes",
+        "Maximum temperature": "39°C (102°F)",
+        "Average maximum temperature": "39°C (102°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "not supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC TAS",
+    "capacity": "256 GB",
+    "firmware": "U0729A0",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC TAS",
+        "Capacity": "120 GB (111.7 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "U0729A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "413 MiB/s",
+        "Minimum average access time": "0.14 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "not supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC TAS",
+    "capacity": "256 GB",
+    "firmware": "W0220A0",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC TAS",
+        "Capacity": "256 GB (238.4 GiB)",
+        "Form-factor": "2.5",
+        "Type": "SSD",
+        "Interface": "SATA",
+        "SATA version": "3.2",
+        "Controller": "Silicon Motion",
+        "Firmware": "W0220A0",
+        "Alternative firmwares": "1",
+        "Firmware upgrade": "supported",
+        "ATA version": "ACS-2",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "600 MB/s",
+        "Maximum read speed": "412 MiB/s",
+        "Minimum average access time": "0.18 msec",
+        "Volatile write cache": "supported",
+        "Read look-ahead": "supported",
+        "Native command queuing (NCQ)": "supported",
+        "Advanced power management (APM)": "supported",
+        "Device sleep (DevSleep)": "not supported",
+        "Clearing unused data (TRIM)": "supported"
+      },
+      "Reliability": {
+        "Count of sensors": "30",
+        "SMART command transport (SCT)": "supported",
+        "Full self-test time": "10 minutes",
+        "Maximum temperature": "42°C (107°F)",
+        "Average maximum temperature": "42°C (107°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Enhanced security erase": "supported",
+        "Data destruction time": "2 minutes",
+        "Instant data destruction": "not supported",
+        "Host protected area (HPA)": "supported",
+        "Host protected area password": "supported",
+        "Trusted computing": "not supported"
+      }
+    }
+  },
+  {
+    "brand": "YMTC",
+    "model": "YMTC YMSS1ED02B21MC",
+    "capacity": "128 GB",
+    "firmware": "LN015216",
+    "sections": {
+      "General information": {
+        "Trademark": "YMTC",
+        "Model": "YMTC YMSS1ED02B21MC",
+        "Capacity": "128 GB (119.2 GiB)",
+        "Type": "SSD",
+        "Interface": "NVMe",
+        "NVMe version": "1.3",
+        "Firmware": "LN015216",
+        "Firmware upgrade": "supported",
+        "Maximum power consumption": "9 W",
+        "Advanced Format": "not supported"
+      },
+      "Performance": {
+        "Maximum interface speed": "3940 MB/s (PCIe 3.0 x4)",
+        "Maximum buffered read speed": "1582 MiB/s",
+        "Maximum read speed": "1076 MiB/s",
+        "Minimum average access time": "0.8 msec",
+        "Clearing unused data (TRIM)": "supported",
+        "Host memory buffer (HMB)": "not supported",
+        "Throttling temperature control": "supported"
+      },
+      "Reliability": {
+        "Full self-test time": "5 minutes",
+        "Critical maximum temperature": "90°C (194°F)",
+        "Recommended maximum temperature": "80°C (176°F)",
+        "Maximum temperature": "45°C (113°F)",
+        "Average maximum temperature": "45°C (113°F)"
+      },
+      "Security": {
+        "Drive access restriction": "supported",
+        "Instant data destruction": "not supported"
+      }
+    }
+  }
+]
